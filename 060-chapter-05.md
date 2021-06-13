@@ -9,6 +9,9 @@
 ## Common Practices
 ## Licensing
 ## Resources
+
+* https://en.wikipedia.org/wiki/Citizens_band_radio
+
 ## Wrap-up
 
 [Next >>](070-chapter-06.md)

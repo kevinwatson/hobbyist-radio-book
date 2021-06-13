@@ -9,6 +9,9 @@
 ## Common Practices
 ## Licensing
 ## Resources
+
+* https://en.wikipedia.org/wiki/Amateur_radio
+
 ## Wrap-up
 
 [Next >>](020-chapter-01.md)

@@ -9,6 +9,9 @@
 ## Common Practices
 ## Licensing
 ## Resources
+
+* https://en.wikipedia.org/wiki/General_Mobile_Radio_Service
+
 ## Wrap-up
 
 [Next >>](050-chapter-04.md)

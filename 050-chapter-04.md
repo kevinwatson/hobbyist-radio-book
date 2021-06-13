@@ -9,6 +9,9 @@
 ## Common Practices
 ## Licensing
 ## Resources
+
+* https://en.wikipedia.org/wiki/Multi-Use_Radio_Service
+
 ## Wrap-up
 
 [Next >>](060-chapter-05.md)
