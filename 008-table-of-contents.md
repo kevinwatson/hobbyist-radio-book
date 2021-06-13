@@ -3,7 +3,6 @@
 * [Chapter 1 - Personal Radio Communications](020-chapter-01.md)
   * Introduction
   * Definitions
-  * History
   * Regulations
   * Resources
   * Wrap-up
