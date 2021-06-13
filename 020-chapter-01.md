@@ -26,7 +26,7 @@ Throughout each chapter we'll define the terms that we'll then use to in our dis
 * **Amplitude Modulation (AM)**:
 * **Very High Frequency (VHF)**:
 * **High Frequency (HF)**:
-* **Ultra High Frequency (UHF)**:
+* **Ultra High Frequency (UHF)**: Frequencies between 300 megahertz (MHz) and 3 gigahertz (GHz)
 * **Channel**:
 * **Simplex**: Using a single channel to transmit and receive
 * **Duplex**: Using multiple channels to transmit and receive
