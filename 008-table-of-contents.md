@@ -9,8 +9,9 @@
 * [Chapter 2 - Family Radio Service](030-chapter-02.md)
   * Introduction
   * Definitions
-  * Frequencies
+  * Channels and Frequencies
   * Range
+  * Privacy Channels
   * Common Uses
   * Common Practices
   * Licensing - Wait! Licenses Aren't Required
