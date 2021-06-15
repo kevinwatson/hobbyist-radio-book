@@ -4,7 +4,7 @@
 
 Radio waves are an invisible force that is all around us and passing through each of us and the walls of your house. Without thinking about it, you most likely utilize these invisible waves in some form or another throughout your day.
 
-Smart phones, such as the iPhone or an Android phone, include a number of built-in radios to allow them to connect to various services and become the can't-live-without-it devices that we use today. The radios inside today's smart phones include Wi-Fi, GPS, Bluetooth and Cellular.
+Smart phones, such as iPhone or Android, include a number of built-in radios to allow them to connect to various services and become the can't-live-without-it devices that we use today. The radios inside today's smart phones include Wi-Fi, GPS, Bluetooth and Cellular.
 
 Besides your phone, the other radios you and your family use most often are the music blaring FM radios in your car and home. You might also have a TV that has an antenna to pick up local television stations. Your garage door opener sends a signal on a radio frequency.
 
@@ -38,6 +38,19 @@ Throughout each chapter we'll define the terms that we'll then use to in our dis
 * **Bluetooth**: Short range wireless standard for computer networks
 * **Voice Activated Transmit (VOX)**: A voice-activated feature on half duplex radios which makes the device hands-free
 
+## Frequency Ranges
+
+| Abbreviation | Name | Range | Usage Example |
+|---|---|---|---|
+| VLF | Very Low Frequency | 3 kHz - 30 kHz | Military, HAM |
+| LF | Low Frequency | 30 kHz - 300 kHz | Time signals, military, RFID tags (e.g. HOV lanes, animal identification), HAM |
+| MF | Medium Frequency | 300 kHz - 3 MHz | AM radio, HAM |
+| HF | High Frequency | 3 MHz - 30 MHz | 3 MHz - 30 MHz | Military, aviation, HAM, CB |
+| VHF | Very High Frequency | 30 MHz - 300 MHz | HAM, FM radio, radio-controlled toys, some TV channels |
+| UHF | Ultra High Frequency | 300 MHz - 3GHz | Some TV channels, government, FRS, GMRS, cellular phones, Wi-Fi, HAM |
+| SHF | Super High Frequency | 3GHz - 30 GHz | Microwave ovens, radar, Wi-Fi |
+| EHF | Extremely High Frequency | 30 GHz - 300 GHz | Astronomy, 5G cell phones, military, airport body scanners |
+
 ## Regulations
 
 The radio spectrum is managed by agencies assigned by most governments. In the United States (of which this guide will focus on), the Federal Communication Commission (FCC) is the agency which manages the radio spectrum. The FCC makes assignments for frequencies and can impose fines for violations.
@@ -45,7 +58,7 @@ The radio spectrum is managed by agencies assigned by most governments. In the U
 ## Resources
 
 * https://en.wikipedia.org/wiki/IPhone
-* https://www.fcc.gov
+* https://www.fcc.gov/wireless/bureau-divisions/mobility-division/800mhz-cellular-service
 * https://people.clarkson.edu/~collinme/wireless/types.html
 
 ## Wrap-up
