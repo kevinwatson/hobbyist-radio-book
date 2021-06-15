@@ -11,6 +11,7 @@
 ## Resources
 
 * https://en.wikipedia.org/wiki/Amateur_radio
+* https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service
 
 ## Wrap-up
 

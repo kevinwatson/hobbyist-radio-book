@@ -11,6 +11,7 @@
 ## Resources
 
 * https://en.wikipedia.org/wiki/General_Mobile_Radio_Service
+* https://www.fcc.gov/general-mobile-radio-service-gmrs
 
 ## Wrap-up
 

@@ -51,6 +51,7 @@ _**Table 2-1**_ FRS Channels and Frequencies
 
 * https://en.wikipedia.org/wiki/Family_Radio_Service
 * https://transition.fcc.gov/fcc-bin/tvq?list=0&facid=35823
+* https://www.fcc.gov/wireless/bureau-divisions/mobility-division/family-radio-service-frs
 
 ## Wrap-up
 
