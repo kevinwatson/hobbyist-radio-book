@@ -37,6 +37,7 @@ Throughout each chapter we'll define the terms that we'll then use to in our dis
 * **Global Positioning System (GPS)**: A system of satellites and signals that is used to determined a device's position on the Earth
 * **Bluetooth**: Short range wireless standard for computer networks
 * **Voice Activated Transmit (VOX)**: A voice-activated feature on half duplex radios which makes the device hands-free
+* **Handheld Transciever (HT)**: A hand-held two-way radio
 
 ## Frequency Ranges
 
