@@ -2,22 +2,32 @@
 
 ## Introduction
 
-Family Radio Service (FRS) is an unrestricted set of frequencies or channels that are open for any non-commercial use.
+Family Radio Service (FRS) is an unrestricted set of frequencies or channels that are available for personal or business use. FRS radios can be used without a license. FRS radios that are FCC compliant operate within the rules: they are restricted to a specific set of frequencies and they automatically adjust the transmission power based on the selected frequency.
+
+FRS radios use frequencies in the Ultra High Frequency (UHF) range, similar to Wi-Fi and cell phones. These radios are generally in the hand-held form factor (as opposed to a base station that sits on a desk or mounts in a vehicle and requires a separate power source). They vary in price from $10 each to $100 and typically come in packs of 2 or 4. They can be purchased at your local WalMart or Target store.
+
+FRS radios are required to have permanent antennas. Other types of radios, like HAM and GMRS, as we'll discuss later, have removable antennas which allow for communicating over longer distances.
+
+Because FRS radios are cheap and their use is generally unrestricted, they're the most popular radios for all age groups. They're used for camping, hiking, neighborhood games, outdoor recreation, road trips and other short-distance activities.
 
 ## Definitions
 ## Channels and Frequencies
 
-FRS radios are pre-programmed (and cannot be modified) with the frequencies in table 2-1 below. Each frequency maps to a channel to make it easier to use.
+FRS radios are pre-programmed (and cannot be modified) with the frequencies in table 2-1 below. Each frequency maps to a channel to make it easier to use. FRS supports 22 total channels.
 
 Why use channels? It's similar to how your over-the-air TV stations work - for most of us it's easier to remember set your TV to channel 2 (KUTV in Utah) rather than tuning your TV to a frequency in the 590 - 596 MHz range.
 
 Some FRS radios will allow you to scroll through the frequencies rather than by channel, if you prefer.
 
-The wattage for channels 1-7 and 15-22 is up to 2 watts. This allows for greater broadcasting distances. Channels 8-14 only allow for broadcasting up to 0.5 watts, so use the higher-wattage channels if for greater range if needed.
+The maximum wattage allowed for channels 1-7 and 15-22 is up to 2 watts. This allows for greater broadcasting distances. Channels 8-14 only allow for broadcasting up to 0.5 watts, so use the higher-wattage channels if for greater range (distance between radios) if needed.
+
+Cheaper FRS radios are limited to 0.5 watts on all channels. More expensive FRS radios will have a low and high power option which will allow you to transmit closer to the 2 watt limit. Remember that using the high power setting on radios that support it will transmit farther distances, but drain the battery faster if you do a lot of talking over the airwaves.
+
+FRS radios sold before 2017 may have the following limitations: limited to channels 1-14, and a maximum of 0.5 watts. FRS radios sold after that date most likely include channels 1-22, and depending on the price, may transmit up to 2 watts on channels 1-7 and 15-22.
 
 _**Table 2-1**_ FRS Channels and Frequencies
 
-| Channel | Frequency | Power (in watts) |
+| Channel | Frequency | Transmit Power (in watts) |
 |---|---|---|
 | 1 | 462.5625 | 2 |
 | 2 | 462.5875 | 2 |
@@ -42,9 +52,13 @@ _**Table 2-1**_ FRS Channels and Frequencies
 | 21 | 462.7000 | 2 |
 | 22 | 462.7250 | 2 |
 
-## Range
+## Transmitting/Receiving Distance
+
+According to the [FCC website](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/family-radio-service-frs), FRS radios can communicate up to 1/2 mile on low-power channels 8-14, with a slightly longer distances on the rest of the higher power channels. Manufacturers advertise a very generous range, up to 16 miles in some cases. Those distances are most likely achieved without any obstructions like trees or buildings.
+
+Under most circumstances, you'll probably see a maximum range of 1/2 mile in your residential neighborhood, with a range a little farther if you're driving on a long stretch of road without any other cars between.
+
 ## Privacy Channels
-## Common Uses
 ## Common Practices
 ## Licensing - Wait! Licenses Aren't Required
 ## Resources

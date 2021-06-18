@@ -11,9 +11,8 @@
   * Introduction
   * Definitions
   * Channels and Frequencies
-  * Range
+  * Transmitting/Receiving Distance
   * Privacy Channels
-  * Common Uses
   * Common Practices
   * Licensing - Wait! Licenses Aren't Required
   * Resources
