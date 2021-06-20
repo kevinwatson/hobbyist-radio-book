@@ -9,11 +9,9 @@
   * Wrap-up
 * [Chapter 2 - Family Radio Service](030-chapter-02.md)
   * Introduction
-  * Definitions
   * Channels and Frequencies
   * Transmitting/Receiving Distance
-  * Privacy Channels
-  * Common Practices
+  * Privacy Codes
   * Licensing - Wait! Licenses Aren't Required
   * Resources
   * Wrap-up
