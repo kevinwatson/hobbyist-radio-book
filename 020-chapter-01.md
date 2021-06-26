@@ -39,9 +39,13 @@ Throughout each chapter we'll define the terms that we'll then use to in our dis
 * **Voice Activated Transmit (VOX)**: A voice-activated feature on half duplex radios which makes the device hands-free
 * **Handheld Transciever (HT)**: A hand-held two-way radio
 
-## Frequency Ranges
+## Radio Bands
 
-| Abbreviation | Name | Range | Usage Example |
+The radio frequency ranges or bands are well defined by governments. In the United States, these bands are defined in table 1-1 below.
+
+_**Table 1-1**_ Radio Bands with Examples
+
+| Abbreviation | Band Name | Range | Example Usage |
 |---|---|---|---|
 | VLF | Very Low Frequency | 3 kHz - 30 kHz | Military, HAM |
 | LF | Low Frequency | 30 kHz - 300 kHz | Time signals, military, RFID tags (e.g. HOV lanes, animal identification), HAM |
