@@ -18,7 +18,7 @@
 * [Chapter 3 - General Mobile Radio Service](040-chapter-03.md)
   * Introduction
   * Licensing
-  * Frequencies
+  * Channels and Frequencies
   * Antennas
   * Range
   * Repeaters
