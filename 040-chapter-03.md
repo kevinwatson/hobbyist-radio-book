@@ -14,7 +14,7 @@ The GMRS license is good for 10 years. Once a user has their license, any immedi
 
 ## Channels and Frequencies
 
-GMRS shares the same 22 pre-programmed channels and frequencies with FRS. This allows interoperability between these radios, which means that GMRS users can communicate with FRS users. GMRS radios are also allowed to use repeaters on a different set of frequencies. As we'll discuss later, repeaters give users a much wider transmission range.
+GMRS shares the same 22 pre-programmed channels and frequencies with FRS. This allows interoperability between these radios, which means that GMRS users can communicate with FRS users. GMRS allows higher wattage transmission output on channels 1-9 and 15-22. Channels 8-14 are restricted to 0.5 watts for both FRS and GMRS.
 
 _**Table 3-1**_ GMRS Channels and Frequencies
 
@@ -42,6 +42,8 @@ _**Table 3-1**_ GMRS Channels and Frequencies
 | 20 | 462.6750 | 50 |
 | 21 | 462.7000 | 50 |
 | 22 | 462.7250 | 50 |
+
+In addition to the pre-programmed channels, GMRS stations are also allowed to use repeaters on an additional set of frequencies. As we'll discuss later, repeaters give users a much wider transmission range.
 
 _**Table 3-2**_ GMRS Repeater Frequencies
 
