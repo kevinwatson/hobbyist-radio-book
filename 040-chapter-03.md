@@ -2,9 +2,11 @@
 
 ## Introduction
 
-General Mobile Radio Service (GMRS) is similar to Family Radio Service (FRS), but with more options. GMRS radios use the same 22 channels, but also have an additional 8 repeater channels. GMRS also allows the user to transmit at a higher power than FRS radios, which allows for longer distance communications and better audio quality. A license is required to use a GMRS radio, so that GMRS radio operators can be identified by the FCC.
+General Mobile Radio Service (GMRS) is similar to Family Radio Service (FRS), but with more options. GMRS radios use the same 22 channels, but also have an additional 8 repeater channels. GMRS also allows the user to transmit at a higher power than FRS radios, which allows for longer distance communications and better audio quality. A license is required to use a GMRS radio, so that GMRS radio operators can be identified if needed by the FCC.
 
-GMRS radios are allowed to have removable antennas. Combine this with higher power wattage allowances, GMRS radios can transmit farther distances than their FRS radio cousins.
+GMRS radios are allowed to have replaceable antennas. Combine this with higher power wattage allowances, GMRS radios can transmit farther distances than their FRS radio cousins.
+
+GMRS radios come in two form factors. Handheld walkie-talkie style radios are cheapest and most common. Prices range for $50 to hundreds of dollars. They usually have rechargeable batteries and a belt clip. Mobile stations are larger, require a separate power source and usually have a separate wired microphone/speaker. They are generally mounted below the dashboard in a vehicle and draw power from the battery. Antennas are usually placed on the roof or trunk and offer wide range communication.
 
 ## Licensing
 
@@ -16,9 +18,11 @@ The GMRS license is good for 10 years. Once a user has their license, any immedi
 
 GMRS shares the same 22 pre-programmed channels and frequencies with FRS. This allows interoperability between these radios, which means that GMRS users can communicate with FRS users. GMRS allows higher wattage transmission output on channels 1-9 and 15-22. Channels 8-14 are restricted to 0.5 watts for both FRS and GMRS.
 
+Not all radios are capable of transmitting at the maximum wattage for each channel. The default setting for some radios is low power (0.5 watts) which can be adjusted up to the maximum the radio is capable of and the selected channel. Higher wattage radios have higher power requirements. Most handhelds cap out at 5 watts, while their mobile station counterparts can hit the 50 watt output for the channels that allow it. GMRS radios are programmed to stay at or under the maximum wattage allowed per channel as you switch between channels. For example, if you set your radio to transmit at high power but then switch to channel 8, your radio will max out at 0.5 watts on that particular channel.
+
 _**Table 3-1**_ GMRS Channels and Frequencies
 
-| Channel | Frequency | Transmit Power (in watts) |
+| Channel | Frequency | Maximum Transmit Power (in watts) |
 |---|---|---|
 | 1 | 462.5625 | 5 |
 | 2 | 462.5875 | 5 |
@@ -47,7 +51,7 @@ In addition to the pre-programmed channels, GMRS stations are also allowed to us
 
 _**Table 3-2**_ GMRS Repeater Frequencies
 
-| Channel | Frequency | Transmit Power (in watts) |
+| Channel | Frequency | Maximum Transmit Power (in watts) |
 |---|---|---|
 | 15 | 467.5500 | 50 |
 | 16 | 467.5750 | 50 |
@@ -59,9 +63,17 @@ _**Table 3-2**_ GMRS Repeater Frequencies
 | 22 | 467.7250 | 50 |
 
 ## Antennas
+
+GMRS radios can come in a variety of form factors. These include mobile stations (which require a separate power source and have a handheld microphone and speaker) and walkie-talkie style handhelds. FCC approved GMRS stations are allowed to have replaceable antennas. This includes both form factors, which means that the owner of a handheld radio can have a longer antenna than the one that came with the radio.
+
+Replacement antennas can vary in size from a short stub to a longer whip antenna for handhelds and roof-mountable options for mobile units. Stubby antennas are good for short range and shortening a handheld so that it fits in a backpack. A longer whip antenna will give the operator wider transmitting and receiving ranges.
+
 ## Range
 ## Repeaters
 ## Common Uses
+
+Many people ask 'Why not just use your cell phone?' when they talk to a radio enthusiast. One answer to that question is that two-way radios can be used where there is not cell phone service. It's also more convenient and safer to use a radio while driving or hiking because it has physical buttons so you can transmit without looking at the device.
+
 ## Common Practices
 ## Licensing
 ## Resources
