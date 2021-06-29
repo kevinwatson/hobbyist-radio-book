@@ -24,7 +24,7 @@ FRS radios sold before 2017 may have the following limitations: limited to chann
 
 _**Table 2-1**_ FRS Channels and Frequencies
 
-| Channel | Frequency | Transmit Power (in watts) |
+| Channel | Frequency | Maximum Transmit Power (in watts) |
 |---|---|---|
 | 1 | 462.5625 | 2 |
 | 2 | 462.5875 | 2 |
