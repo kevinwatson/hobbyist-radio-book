@@ -75,7 +75,6 @@ Replacement antennas can vary in size from a short stub to a longer whip antenna
 Many people ask 'Why not just use your cell phone?' when they talk to a radio enthusiast. One answer to that question is that two-way radios can be used where there is not cell phone service. It's also more convenient and safer to use a radio while driving or hiking because it has physical buttons so you can transmit without looking at the device.
 
 ## Common Practices
-## Licensing
 ## Resources
 
 * https://en.wikipedia.org/wiki/General_Mobile_Radio_Service

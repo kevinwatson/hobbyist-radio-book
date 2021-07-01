@@ -24,7 +24,6 @@
   * Repeaters
   * Common Uses
   * Common Practices
-  * Licensing
   * Resources
   * Wrap-up
 * [Chapter 4 - Multi-Use Radio Service](050-chapter-04.md)
