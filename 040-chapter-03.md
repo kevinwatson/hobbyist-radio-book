@@ -6,7 +6,7 @@ General Mobile Radio Service (GMRS) is similar to Family Radio Service (FRS), bu
 
 GMRS radios are allowed to have replaceable antennas. Combine this with higher power wattage allowances, GMRS radios can transmit farther distances than their FRS radio cousins.
 
-GMRS radios come in two form factors. Handheld walkie-talkie style radios are cheapest and most common. Prices range for $50 to hundreds of dollars. They usually have rechargeable batteries and a belt clip. Mobile stations are larger, require a separate power source and usually have a separate wired microphone/speaker. They are generally mounted below the dashboard in a vehicle and draw power from the battery. Antennas are usually placed on the roof or trunk and offer wide range communication.
+GMRS radios come in two form factors. Handheld walkie-talkie style radios are cheapest and most common. Prices range from $50 to hundreds of dollars. They usually have rechargeable batteries and a belt clip. Mobile stations are larger, require a separate power source and usually have a separate wired microphone/speaker. They are generally mounted below the dashboard in a vehicle and draw power from the battery. Antennas are usually placed on the roof or trunk and offer wide range communication.
 
 ## Licensing
 
