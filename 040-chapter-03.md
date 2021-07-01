@@ -22,7 +22,7 @@ Not all radios are capable of transmitting at the maximum wattage for each chann
 
 _**Table 3-1**_ GMRS Channels and Frequencies
 
-| Channel | Frequency | Maximum Transmit Power (in watts) |
+| Channel | Transmit/Receive Frequency (MHz) | Maximum Transmit Power (in watts) |
 |---|---|---|
 | 1 | 462.5625 | 5 |
 | 2 | 462.5875 | 5 |
@@ -51,7 +51,7 @@ In addition to the pre-programmed channels, GMRS stations are also allowed to us
 
 _**Table 3-2**_ GMRS Repeater Frequencies
 
-| Channel | Receive Frequency | Transmit Frequency | Maximum Transmit Power (in watts) |
+| Channel | Receive Frequency (MHz) | Transmit Frequency (MHz) | Maximum Transmit Power (in watts) |
 |---|---|---|---|
 | 15 | 462.5500 | 467.5500 | 50 |
 | 16 | 462.5750 | 467.5750 | 50 |
