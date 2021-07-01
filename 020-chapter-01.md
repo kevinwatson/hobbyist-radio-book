@@ -38,6 +38,7 @@ Throughout each chapter we'll define the terms that we'll then use to in our dis
 * **Bluetooth**: Short range wireless standard for computer networks
 * **Voice Activated Transmit (VOX)**: A voice-activated feature on half duplex radios which makes the device hands-free
 * **Handheld Transciever (HT)**: A hand-held two-way radio
+* **Squelch**: A radio function which mutes the speaker when no signal is detected
 
 ## Radio Bands
 
