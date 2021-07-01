@@ -51,16 +51,16 @@ In addition to the pre-programmed channels, GMRS stations are also allowed to us
 
 _**Table 3-2**_ GMRS Repeater Frequencies
 
-| Channel | Frequency | Maximum Transmit Power (in watts) |
-|---|---|---|
-| 15 | 467.5500 | 50 |
-| 16 | 467.5750 | 50 |
-| 17 | 467.6000 | 50 |
-| 18 | 467.6250 | 50 |
-| 19 | 467.6500 | 50 |
-| 20 | 467.6750 | 50 |
-| 21 | 467.7000 | 50 |
-| 22 | 467.7250 | 50 |
+| Channel | Receive Frequency | Transmit Frequency | Maximum Transmit Power (in watts) |
+|---|---|---|---|
+| 15 | 462.5500 | 467.5500 | 50 |
+| 16 | 462.5750 | 467.5750 | 50 |
+| 17 | 462.6000 | 467.6000 | 50 |
+| 18 | 462.6250 | 467.6250 | 50 |
+| 19 | 462.6500 | 467.6500 | 50 |
+| 20 | 462.6750 | 467.6750 | 50 |
+| 21 | 462.7000 | 467.7000 | 50 |
+| 22 | 462.7250 | 467.7250 | 50 |
 
 ## Antennas
 
