@@ -10,9 +10,9 @@ GMRS radios come in two form factors. Handheld walkie-talkie style radios are ch
 
 ## Licensing
 
-Obtaining a GMRS license is fairly straightforward. No test is required (although I've heard that navigating the antiquated FCC website to find and pay for the license is a test in and of itself!), just fill out the form and pay the fee. After submitting your payment, about 24 hours later you'll get an email from the FCC which links back to the FCC website. The website will show your new call sign and a link to an official PDF file that you can download and print.
+Obtaining a GMRS license is fairly straightforward. No test is required (although I've heard that navigating the antiquated FCC website to find and pay for the license is a test in and of itself!), just fill out the form and pay the fee. Before filling out the form, you'll need to be at least 18 years old. After submitting your payment, about 24 hours later you'll get an email from the FCC which links back to the FCC website. The website will show your new call sign and a link to an official PDF file that you can download and print.
 
-The GMRS license is good for 10 years. Once a user has their license, any immediate family member (parents, grandparents, children, spouse, etc) can use their GMRS radio during non-emergency situations. During an emergency situation, it's ok for a non-relation to use the radio.
+A GMRS license is good for 10 years. Once a user has their license, any immediate family member (parents, grandparents, children, spouse, etc) can use their GMRS radio during non-emergency situations. During an emergency situation, it's ok for a non-relation to use the radio.
 
 ## Channels and Frequencies
 
