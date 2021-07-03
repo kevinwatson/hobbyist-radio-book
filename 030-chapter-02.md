@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Family Radio Service (FRS) is an unrestricted set of frequencies or channels that are available for personal or business use. FRS radios can be used without a license. FRS radios that are FCC compliant operate within the rules: they are restricted to a specific set of frequencies and they automatically adjust the transmission power based on the selected frequency.
+Family Radio Service (FRS) is a set of frequencies that are available for personal or business use. FRS radios can be used without a license. FRS radios that are FCC compliant operate within the rules: they are restricted to a specific set of frequencies and they automatically adjust the transmission power based on the selected frequency.
 
 FRS radios use frequencies in the Ultra High Frequency (UHF) range, similar to Wi-Fi and cell phones. These radios are generally in the hand-held form factor (as opposed to a base station that sits on a desk or mounts in a vehicle and requires a separate power source). They vary in price from $10 each to $100 and typically come in packs of 2 or 4. They can be purchased at your local WalMart or Target store.
 
