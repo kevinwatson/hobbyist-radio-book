@@ -69,20 +69,52 @@ GMRS radios can come in a variety of form factors. These include mobile stations
 Replacement antennas can vary in size from a short stub to a longer whip antenna for handhelds and roof-mountable options for mobile units. Stubby antennas are good for short range and shortening a handheld so that it fits in a backpack. A longer whip antenna will give the operator wider transmitting and receiving ranges.
 
 ## Range
+
+The range of your GMRS transmission depends on a number of factors. We'll list some of them here.
+
+* Atmospheric conditions - clear vs rainy weather
+* Wattage - higher is better
+* Antenna size - rubber duck vs whip
+* Terrain - hills vs valleys vs flat
+* Obstacles - buildings and trees
+* Automobile - inside vs outside
+
+Each of these aspects can increase or decrease the range of your transmission. Radio manufacturs advertise ranges like 22+ miles. Ranges like these are most likely found on a clear day between two mountain tops on a channel that allows maximum wattage. Based on my experience, transmitting from handhelds from inside two automobiles on a road trip, we can hear each other about one to two miles away.
+
+The use of a repeater, as we'll discuss next, can dramatically increase your range because your small antenna is utilizing the power of a larger repeater antenna.
+
 ## Repeaters
+
+A repeater is an automated base station, usually with a large antenna, that can relay radio signals. GMRS differs from FRS in that GMRS radios can transmit on the frequencies that repeaters are listening on.
+
+Repeaters will greatly extend the range of the radio.
+
 ## Common Uses
 
 Many people ask 'Why not just use your cell phone?' when they talk to a radio enthusiast. One answer to that question is that two-way radios can be used where there is not cell phone service. It's also more convenient and safer to use a radio while driving or hiking because it has physical buttons so you can transmit without looking at the device.
 
 ## Common Practices
+
+If you're transmitting for periods over 15 minutes, FCC regulations require that you state your call sign. This allows the FCC and others to identify you (one reason may be so that they can step in if your station is causing interference). If you're allowing others to use your license, they will need to state your FCC assigned call sign every 15 minutes.
+
+Stating your call sign at the end of the conversation is also common, it signals to the rest of the users that you're done using the frequency.
+
 ## Resources
 
+* https://apps.fcc.gov/cores/userLogin.do* https://ecfr.federalregister.gov/current/title-47/chapter-I/subchapter-D/part-95/subpart-E/section-95.1705
 * https://en.wikipedia.org/wiki/General_Mobile_Radio_Service
+* https://mygmrs.com/map
 * https://www.fcc.gov/general-mobile-radio-service-gmrs
-* https://ecfr.federalregister.gov/current/title-47/chapter-I/subchapter-D/part-95/subpart-E/section-95.1705
-* https://apps.fcc.gov/cores/userLogin.do
 * https://www.notarubicon.com/how-to-get-a-gmrs-license-easy-guide-to-gmrs-licensing-on-the-fcc-website/
 
 ## Wrap-up
+
+GMRS radios allow the flexibility of replacement antennas, higher transmission wattage and the use of repeaters to dramatically increase their range.
+
+GMRS requires a license from the FCC. These radios share frequencies with FRS radios, which means that you can communicate with your friends and family who have FRS radios.
+
+GMRS is a good way to get your feet wet if you've had any interest in radio communications and want to become a ham radio operator. It's a step above FRS and not as flexible as ham, but for many people provides enough flexibility that they use it exclusively.
+
+In the next chapter, we'll discuss the MURS radio service which is similar to FRS but on a different set of frequencies.
 
 [Next >>](050-chapter-04.md)
