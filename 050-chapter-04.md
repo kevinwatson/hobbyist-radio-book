@@ -8,6 +8,8 @@ MURS radios are allowed to transmit on five frequencies. They are allowed to hav
 
 Users of the MURS frequencies are not required to obtain a license. Because MURS radios are limited to only a handful of frequencies, they are generally easier to operate.
 
+Just like FRS AND GMRS radios, MURS radios support CTCSS and DCS to ignore unwanted transmissions.
+
 ## Channels and Frequencies
 
 _**Table 4-1**_ MURS Channels and Frequencies
