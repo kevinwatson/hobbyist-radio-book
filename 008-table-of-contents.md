@@ -31,10 +31,8 @@
   * Channels and Frequencies
   * Antennas
   * Range
-  * Repeaters
   * Common Uses
   * Common Practices
-  * Licensing
   * Resources
   * Wrap-up
 * [Chapter 5 - Citizens Band](060-chapter-05.md)
