@@ -53,6 +53,6 @@ A Roger Beep function can help signal when you have pressed and then released th
 
 MURS radios are license free, basic radios that operate on 5 channels. They are great for either personal or business use because of their simplicity. They don't share channels with FRS or GMRS, so everyone using a MURS radio within range is most likely there for the same purpose.
 
-So far we've discussed hobbyist radios and frequencies that are available to unlicensed users. Next, we'll discuss ham radios and frequencies, which require a license and some training.
+So far we've discussed radios and frequencies that are available to unlicensed users. Next, we'll discuss ham radios and frequencies, which require a license and some training.
 
 [Next >>](060-chapter-05.md)
