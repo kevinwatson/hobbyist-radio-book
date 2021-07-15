@@ -91,7 +91,7 @@ Repeaters will greatly extend the range of the radio.
 
 ## Common Uses
 
-Many people ask 'Why not just use your cell phone?' when they talk to a radio enthusiast. One answer to that question is that two-way radios can be used where there is not cell phone service. It's also more convenient and safer to use a radio while driving or hiking because it has physical buttons so you can transmit without looking at the device.
+Many people ask 'Why not just use your cell phone?' when they talk to a radio enthusiast. One answer to that question is that two-way radios can be used where there is not cell phone service. It's also more convenient and safer to use a radio while driving or hiking because it has physical buttons so you can push a physical button to transmit without looking at the device. If you want to stay in regular contact by listening, radios can remain in receive mode (and are quiet when the squelch is set correctly) which means that you don't have to push a button to answer like you would on a phone, you just leave the radio on and keep it close so that you can hear when others transmit.
 
 ## Common Practices
 
