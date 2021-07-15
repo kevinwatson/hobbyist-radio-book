@@ -16,7 +16,7 @@ FRS radios are pre-programmed (and cannot be modified) with the frequencies in t
 
 Why use channels? It's similar to how your over-the-air TV stations work - for most of us it's easier to remember set your TV to channel 2 (KUTV in Utah) rather than tuning your TV to a frequency in the 590 - 596 MHz range.
 
-The maximum wattage allowed for channels 1-7 and 15-22 is up to 2 watts. This allows for greater broadcasting distances. Channels 8-14 only allow for broadcasting up to 0.5 watts, so use the higher-wattage channels if for greater range (distance between radios) if needed.
+The maximum wattage allowed for channels 1-7 and 15-22 is up to 2 watts. This allows for greater transmitting distances. Channels 8-14 only allow for transmitting up to 0.5 watts, so use the higher-wattage channels if for greater range (distance between radios) if needed.
 
 Cheaper FRS radios are limited to 0.5 watts on all channels. More expensive FRS radios will have a low and high power option which will allow you to transmit closer to the 2 watt limit. Remember that using the high power setting on radios that support it will transmit farther distances, but drain the battery faster if you do a lot of transmitting over the airwaves.
 
