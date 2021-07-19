@@ -35,7 +35,7 @@
   * Common Practices
   * Resources
   * Wrap-up
-* [Chapter 5 - Citizens Band](060-chapter-05.md)
+* [Chapter 5 - Citizens Band Radio Service](060-chapter-05.md)
   * Introduction
   * Channels and Frequencies
   * Antennas

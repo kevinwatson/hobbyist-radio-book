@@ -1,16 +1,16 @@
-### Chapter 5 - Citizens Band
+### Chapter 5 - Citizens Band Radio Service
 
 ## Introduction
 
-Citizen Band (CB | is a set of frequencies which gained popularity in the 1970s, mostly in the trucking industry. Trucker drivers then and now use these frequencies to communicate with other drivers while on the road to communicate road conditions and other vital information.
+Citizen Band (CBRS or more commonly abbreviated as CB) is a set of frequencies which gained popularity in the 1970s, mostly in the trucking industry. Trucker drivers then and now use these frequencies to communicate with other drivers while on the road to communicate road conditions and other vital information.
 
-Anyone of any age can use these frequencies without a license.
+Anyone of any age can use these frequencies without a license. These frequencies can be used for personal or business use, as long as the radios are FCC compliant. It's common for CB users to use an alias instead of their name when communicating with others.
 
 ## Channels and Frequencies
 
-Forty separate channels are allocated by the FCC. The maximum transmit power is 4 watts for most uses and up to 16 watts for other uses.
+Forty separate channels are allocated by the FCC. The maximum transmit power is 4 watts for most uses and up to 16 watts for other uses. Channel 9 is reserved for emergency communications and if there are emergency communications happening on any of the channels, CB users should pause their transmissions to give priority to those communications.
 
-_**Table 5-1**_ CB Channels and Frequencies
+_**Table 5-1**_ CBRS Channels and Frequencies
 
 | Channel | Transmit/Receive Frequency (MHz) | Maximum Transmit Power (in watts) |
 |---|---|---|
@@ -56,7 +56,13 @@ _**Table 5-1**_ CB Channels and Frequencies
 | 40 | 27.405 | 16 |
 
 ## Antennas
+
+CB antennas for mobile or hand held stations can be of any length, while there are height restrictions for antennas mounted on structures and on the ground.
+
 ## Range
+
+The lower frequencies of CB allow further transmission distances. This, combined with long antennas allow for transmission distances over a longer range than FRS, GMRS or MURS radios.
+
 ## Common Uses
 ## Common Practices
 ## Resources
