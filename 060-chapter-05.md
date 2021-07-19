@@ -1,16 +1,68 @@
 ### Chapter 5 - Citizens Band
+
 ## Introduction
-## Definitions
-## Frequencies
+
+Citizen Band (CB | is a set of frequencies which gained popularity in the 1970s, mostly in the trucking industry. Trucker drivers then and now use these frequencies to communicate with other drivers while on the road to communicate road conditions and other vital information.
+
+Anyone of any age can use these frequencies without a license.
+
+## Channels and Frequencies
+
+Forty separate channels are allocated by the FCC. The maximum transmit power is 4 watts for most uses and up to 16 watts for other uses.
+
+_**Table 5-1**_ CB Channels and Frequencies
+
+| Channel | Transmit/Receive Frequency (MHz) | Maximum Transmit Power (in watts) |
+|---|---|---|
+| 1 | 26.965 | 16 |
+| 2 | 26.975 | 16 |
+| 3 | 26.985 | 16 |
+| 4 | 27.005 | 16 |
+| 5 | 27.015 | 16 |
+| 6 | 27.025 | 16 |
+| 7 | 27.035 | 16 |
+| 8 | 27.055 | 16 |
+| 9 | 27.065 | 16 |
+| 10 | 27.075 | 16 |
+| 11 | 27.085 | 16 |
+| 12 | 27.105 | 16 |
+| 13 | 27.115 | 16 |
+| 14 | 27.125 | 16 |
+| 15 | 27.135 | 16 |
+| 16 | 27.155 | 16 |
+| 17 | 27.165 | 16 |
+| 18 | 27.175 | 16 |
+| 19 | 27.185 | 16 |
+| 20 | 27.205 | 16 |
+| 21 | 27.215 | 16 |
+| 22 | 27.225 | 16 |
+| 23 | 27.255 | 16 |
+| 24 | 27.235 | 16 |
+| 25 | 27.245 | 16 |
+| 26 | 27.265 | 16 |
+| 27 | 27.275 | 16 |
+| 28 | 27.285 | 16 |
+| 29 | 27.295 | 16 |
+| 30 | 27.305 | 16 |
+| 31 | 27.315 | 16 |
+| 32 | 27.325 | 16 |
+| 33 | 27.335 | 16 |
+| 34 | 27.345 | 16 |
+| 35 | 27.355 | 16 |
+| 36 | 27.365 | 16 |
+| 37 | 27.375 | 16 |
+| 38 | 27.385 | 16 |
+| 39 | 27.395 | 16 |
+| 40 | 27.405 | 16 |
+
 ## Antennas
 ## Range
-## Repeaters
 ## Common Uses
 ## Common Practices
-## Licensing
 ## Resources
 
 * https://en.wikipedia.org/wiki/Citizens_band_radio
+* https://www.fcc.gov/wireless/bureau-divisions/mobility-division/citizens-band-radio-service-cbrs
 
 ## Wrap-up
 
