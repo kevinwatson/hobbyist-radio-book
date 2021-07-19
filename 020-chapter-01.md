@@ -14,6 +14,7 @@ Laptops and tablet computers include Bluetooth radios that allow your wireless k
 
 Throughout each chapter we'll define the terms that we'll then use to in our discussions around learning about and using the available radio types.
 
+* **Call Sign**: An identifier, consisting of letters and numbers, which is assigned by the FCC and is used by radio operators to identify themselves
 * **Radio**: An electronic device which receives and/or transmits electromagnetic signals and converts those signals to an audio or video format
 * **Spectrum**: A range of frequencies
 * **Radio Wave**:
