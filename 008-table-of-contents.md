@@ -44,7 +44,7 @@
   * Common Practices
   * Resources
   * Wrap-up
-* [Chapter 6 - Amateur Radio](070-chapter-06.md)
+* [Chapter 6 - Amateur (ham) Radio](070-chapter-06.md)
   * Introduction
   * Definitions
   * Frequencies

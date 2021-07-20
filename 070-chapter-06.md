@@ -1,4 +1,4 @@
-### Chapter 6 - Amateur Radio
+### Chapter 6 - Amateur (ham) Radio
 ## Introduction
 ## Definitions
 ## Frequencies
