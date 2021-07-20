@@ -64,12 +64,22 @@ CB antennas for mobile or hand held stations can be of any length, while there a
 The lower frequencies of CB allow further transmission distances. This, combined with long antennas allow for transmission distances over a longer range than FRS, GMRS or MURS radios.
 
 ## Common Uses
+
+CBs hit their peak popularity in the 1970s among long distance truckers, long before cell phones and GPS trackers. Truckers used them to share information about road conditions, fuel prices, speed traps, etc. Nowadays, CB radios are still popular among truckers, especially in areas with poor cellphone coverage.
+
 ## Common Practices
+
+For bands that require a license such as GMRS or ham, the FCC issues a unique call sign to the radio operator that is used to identify the user. Because the FCC does not issue licenses and call signs for CB users and it's convenient to identify oneself by a nickname, it's common for CB users to come up with their own handle or call sign.
+
 ## Resources
 
 * https://en.wikipedia.org/wiki/Citizens_band_radio
 * https://www.fcc.gov/wireless/bureau-divisions/mobility-division/citizens-band-radio-service-cbrs
 
 ## Wrap-up
+
+The CB radio service has been a popular way to communicate over the airwaves for many decades. The CB frequencies are unrestricted for personal and business use and do not require a license. While still used by truckers, most businesses and personal users have moved on to other services such as MURS.
+
+Up to this point we've discussed FRS, GMRS, MURS and CBRS radios and frequencies which are largely used for short-distance (with the exception of GMRS repeaters) communications. In the next chapter, we'll discuss ham radio, which offers a wide range of frequencies, radios and communication distances.
 
 [Next >>](070-chapter-06.md)
