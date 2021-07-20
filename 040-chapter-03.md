@@ -64,7 +64,7 @@ _**Table 3-2**_ GMRS Repeater Frequencies
 
 ## Antennas
 
-GMRS radios can come in a variety of form factors. These include mobile stations (which require a separate power source and have a handheld microphone and speaker) and walkie-talkie style handhelds. FCC approved GMRS stations are allowed to have replaceable antennas. This includes both form factors, which means that the owner of a handheld radio can have a longer antenna than the one that came with the radio.
+GMRS radios come in a variety of form factors. These include mobile stations (which require a separate power source and have a handheld microphone and speaker) and walkie-talkie style handhelds. FCC approved GMRS stations are allowed to have replaceable antennas. This includes both form factors, which means that the owner of a handheld radio can have a longer antenna than the one that came with the radio.
 
 Replacement antennas can vary in size from a short stub to a longer whip antenna for handhelds and roof-mountable options for mobile units. Stubby antennas are good for short range and shortening a handheld so that it fits in a backpack. A longer whip antenna will give the operator wider transmitting and receiving ranges.
 
