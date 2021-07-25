@@ -59,19 +59,63 @@ _**Table 6-4**_ Wavelength/Frequency Conversion
 
 ### Q Signals
 
+Q codes are used as shorthand for communicating with others over the airwaves.
+
 _**Table 6-5**_ Ham Radio Q Signals
 
-| Signal | Question | Answer |
-|---|---|---|
-| QRG |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Signal | Question | Answer | Intent |
+|---|---|---|---|
+| QRA | What is the name (or call sign) of your station? | The name (or call sign) of my station is ___ | Please identify yourself |
+| QRB | How far are you from my station? | I am ____ miles/km from your station | How far apart are we? |
+| QRD | Where are you bound and where are you coming from? | I am bound ___ from ___ |
+| QRG | Will you tell me my exact frequency? | Your exact frequency is ___ kHz |
+| QRH | Does my frequency vary? | Yes, your frequency varies |
+| QRI | How is the tone of my transmission? | The tone of your transmission is ___ |
+| QRJ | How many voice contacts do you wan to make? | I want to make ___ voice contacts |
+| QRK | What is the readability of my signals? | The readability of your signals is ___ |
+| QRL | Are you busy? | I am busy. Please do not intefere. / I am not busy |
+| QRM | Do you have interference? | I have interference / I do not have interference |
+| QRN | Do you have static? | I have static / I do not have static |
+| QRO | Shall I increase power? | Increase power / No | Is my transmission signal too weak? |
+| QRP | Shall I decrease power? | Decrease power / No | Is my transmission signal too strong? |
+| QRQ | Shall I send faster? | Send faster (___ wpm) |
+| QRS | Shall I send more slowly? | Send more slowly (___ wpm) |
+| QRT | Shall I cease or suspend operation/shutoff radio? | I am suspending operation/shutting off radio |
+| QRU | Have you anything for me? | Yes, ___ / I have nothing for you |
+| QRV | Are you ready? | Not yet / I am ready |
+| QRW | Shall I inform ___ that you are calling them on ___ ? | Please inform ___ that I am calling him on ___ |
+| QRX | Shall I standby / When will you call me again? | PLease standby / I will call you again at ___ (hours) on ___ (frequency) |
+| QRY | What is my turn? | YOur turn is numbered ___ |
+| QRZ | Who is calling me? | You are being called by ___ on ___ kHz (or MHz) |
+| QSA | What is the strength of my signals (or those of ___) ? | Your signal strength (or those of ___) is ___ |
+| QSB | Are my signals fading? | Your signals are failing |
+| QSD | Is my keying defective? | Your keying is defective |
+| QSG | Shall I send ___ telegrams (messages) at a time? | Send ___ telegrams (messages) at a time |
+| QSK | Can you hear me between your signals? | I can hear you between my signals |
+| QSL | Can you acknowledge receipt? | I am acknowledging receipt |
+| QSM | Shall I repeat the last message I sent you? | Repeat the last message |
+| QSN | Did you hear me (or ___) on ___ kHz (or MHz) ? | I did hear you (or ___) on ___ kHz (or MHz) |
+| QSO | Can you communicate with ___ direct or by relay? | I can communicate with ___ direct or by relay |
+| QSP | Will you relay a message to ___ ? | I will relay a message to ___ |
+| QSR | Do you want me to repeat my call? | Please repeat your call; I did not hear you |
+| QST | --- | Here is a broadcast message to all amateurs | I need to make an announcement to everyone on this frequency |
+| QSU | Shall I send or reply on this frequency (or on ___) ? | Send or reply on this frequency (or on ___) |
+| QSW | Will you send on this frequency (or on ___) ? | I will send on this frequency (or on ___) |
+| QSX | Will you listen to ___ call sign(s) on ___ frequency? | I am listening to ___ on ___ (kHz or MHz) |
+| QSY | Shall I change to transmit on another frequency? | Change to transmit on ___ (kHz or MHz) |
+| QSZ | Shall I send each word or group more than once? | Send each word or group twice (or ___ times) |
+| QTA | Shall I cancel message ___ as if it had not been sent? | Cancel message ___ as if it had not been sent |
+| QTB | Do you agree with my word count? | I do/do not agree with your word count |
+| QTC | How many telegrams (messages) have you to send? | I have ___ messages for you (or for ___) |
+| QTH | What is your position in latitude and longitude? | My position is ___ latitute and ___ longitude |
+| QTR | What is the correct time? | The correct time is ___ |
+| QTU | At what times are you operating? | I am operating from ___ to ___ hours. |
+| QTX | Will you keep your station open for further communication with me until further notice (or until ___ hours)? | I will keep my station open for further communication with you until further notice (or until ___ hours) |
+| QUA | Have you news of ___ (call sign) ? | Here is news of ___ (call sign) |
+| QUC | What is the number (or other indication) of the last message you received from me (or from ___ (call sign))? | The number (or other indication) of the last message I received from you (or from ___ (call sign)) is ___ |
+| QUD | Have you received the urgency signal sent by ___ (call sign of mobile station) ? | I have received the urgency signal sent by ___ (call sign of mobile station) at ___ hours |
+| QUE | Can you speak in ___ (language) – with interpreter if necessary – if so, on what frequencies? | I can speak in ___ (language) on ___ (kHz or MHz) |
+| QUF | Have you received the distress signal sent by ___ (call sign)? | I have received the distress signal sent by ___ (call sign) at ___ hours |
 
 _**Table 6-6**_ Phonetic Alphabet
 
@@ -91,8 +135,10 @@ _**Table 6-7**_ Phonetic Numbers
 ## Resources
 
 * https://en.wikipedia.org/wiki/Amateur_radio
+* https://en.wikipedia.org/wiki/Q_code
 * https://www.fcc.gov/amateur-radio-service
 * https://www.iaru.org
+* http://www.sckans.edu/~sireland/radio/q_signals.html
 
 ## Wrap-up
 
