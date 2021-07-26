@@ -59,7 +59,7 @@ _**Table 6-4**_ Wavelength/Frequency Conversion
 
 ### Q Signals
 
-Q codes are used as shorthand for communicating with others over the airwaves.
+Q codes are used as shorthand for communicating with others over the airwaves. They are common phrases that are encoded down to a three-letter phrase to save time when using voice communications.
 
 _**Table 6-5**_ Ham Radio Q Signals
 
@@ -119,17 +119,51 @@ _**Table 6-5**_ Ham Radio Q Signals
 
 _**Table 6-6**_ Phonetic Alphabet
 
+Because of accents, similar-sounding letters and the requirement to announce call signs over the air, it's necessary to establish a common pronounciation for letters of the English alphabet. The full words and pronounciations for each letter allow hams to clearly express their intent. For example, if a user's call sign was KG7TVE, the last three characters sound similar. It would be clear to both announce the call sign normally, and then spell it out, as in Kilo-Golf-Seven-Tango-Victor-Echo. Others who were listening to the transmission would have a much easier time interpreting the call sign with each letter pronounced as a separate word.
+
 | Letter | Word | Pronunciation |
 |---|---|---|
 | A | Alpha | al-fah |
-|  |  |  |
+| B | Bravo | bra-voh |
+| C | Charlie | char-lee |
+| D | Delta | dell-tah |
+| E | Echo | eck-oh |
+| F | Foxtrot | focks-trot |
+| G | Golf | golf |
+| H | Hotel | hoh-tell |
+| I | India | in-dee-ah |
+| J | Juliet | jew-lee-ett |
+| K | Kilo | kee-loh |
+| L | Lima | lee-mah |
+| M | Mike | mike |
+| N | November | noh-vem-ber |
+| O | Oscar | oss-cah |
+| P | Papa | pah-pah |
+| Q | Quebec | keh-beck |
+| R | Romeo | row-me-oh |
+| S | Sierra | see-air-ah |
+| T | Tango | tang-go |
+| U | Uniform | you-nee-form |
+| V | Victor | vik-tah |
+| W | Whiskey | wiss-key |
+| X | Xray | ecks-ray |
+| Y | Yankee | yang-kee |
+| Z | Zulu | zoo-loo |
 
 _**Table 6-7**_ Phonetic Numbers
 
 | Number | Word | Pronunciation |
 |---|---|---|
 | 0 | Zero | zee-ro |
-|  |  |  |
+| 1 | One | wun |
+| 2 | Two | too |
+| 3 | Three | tree |
+| 4 | Four | fow-er |
+| 5 | Five | fife |
+| 6 | Six | six |
+| 7 | Seven | sev-en |
+| 8 | Eight | alt |
+| 9 | Nine | nin-er |
 
 ## Licensing
 ## Resources
