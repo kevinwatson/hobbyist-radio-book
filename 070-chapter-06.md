@@ -117,9 +117,9 @@ _**Table 6-5**_ Ham Radio Q Signals
 | QUE | Can you speak in ___ (language) – with interpreter if necessary – if so, on what frequencies? | I can speak in ___ (language) on ___ (kHz or MHz) |
 | QUF | Have you received the distress signal sent by ___ (call sign)? | I have received the distress signal sent by ___ (call sign) at ___ hours |
 
-_**Table 6-6**_ Phonetic Alphabet
+Because of accents, similar-sounding letters and the requirement to announce call signs over the air, it's necessary to establish a common pronounciation for letters of the English alphabet. Table 6-6 defines the related words for each letter and their common pronounciations. The full words and pronounciations for each letter allow hams to clearly express their intent. For example, if a user's call sign was KG7TVE, the last three characters sound similar. It would be clear to both announce the call sign normally, and then spell it out, as in Kilo-Golf-Seven-Tango-Victor-Echo. Others who were listening to the transmission would have a much easier time interpreting the call sign with each letter pronounced as a separate word.
 
-Because of accents, similar-sounding letters and the requirement to announce call signs over the air, it's necessary to establish a common pronounciation for letters of the English alphabet. The full words and pronounciations for each letter allow hams to clearly express their intent. For example, if a user's call sign was KG7TVE, the last three characters sound similar. It would be clear to both announce the call sign normally, and then spell it out, as in Kilo-Golf-Seven-Tango-Victor-Echo. Others who were listening to the transmission would have a much easier time interpreting the call sign with each letter pronounced as a separate word.
+_**Table 6-6**_ Phonetic Alphabet
 
 | Letter | Word | Pronunciation |
 |---|---|---|
