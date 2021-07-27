@@ -15,34 +15,34 @@ In previous chapters we've listed frequencies and their corresponding channels. 
 
 _**Table 6-1**_ HF Ham Frequencies
 
-| Transmit/Receive Frequency (MHz) | Wavelength (meters) |
-|---|---|
-| 1.8 | 160 |
-| 3.5 | 80 |
-| 5.3 | 60 |
-| 7 | 40 |
-| 10.1 | 30 |
-| 14 | 20 |
-| 18 | 17 |
-| 21 | 15 |
-| 24 | 12 |
-| 28 | 10 |
+| Transmit/Receive Frequency (MHz) | Wavelength (meters) | License Class |
+|---|---|---|
+| 1.8 | 160 | General and Amateur Extra |
+| 3.5 | 80 | General and Amateur Extra |
+| 5.3 | 60 | General and Amateur Extra |
+| 7 | 40 | General and Amateur Extra |
+| 10.1 | 30 | General and Amateur Extra |
+| 14 | 20 | General and Amateur Extra |
+| 18 | 17 | General and Amateur Extra |
+| 21 | 15 | General and Amateur Extra |
+| 24 | 12 | General and Amateur Extra |
+| 28 | 10 | General and Amateur Extra |
 
 _**Table 6-2**_ VHF Ham Frequencies
 
-| Transmit/Receive Frequency (MHz) | Wavelength (meters) |
-|---|---|
-| 50 | 6 |
-| 144 | 2 |
-| 222 | 1.25 |
+| Transmit/Receive Frequency (MHz) | Wavelength (meters) | License Class |
+|---|---|---|
+| 50 | 6 | Technician and higher |
+| 144 | 2 | Technician and higher |
+| 222 | 1.25 | Technician and higher |
 
 _**Table 6-3**_ UHF Ham Frequencies
 
-| Transmit/Receive Frequency (MHz) | Wavelength (centimeters) |
-|---|---|
-| 420 | 70 |
-| 902 | 33 |
-| 1240 | 23 |
+| Transmit/Receive Frequency (MHz) | Wavelength (centimeters) | License Class |
+|---|---|---|
+| 420 | 70 | Technician and higher |
+| 902 | 33 | Technician and higher |
+| 1240 | 23 | Technician and higher |
 
 _**Table 6-4**_ Wavelength/Frequency Conversion
 
@@ -166,6 +166,17 @@ _**Table 6-7**_ Phonetic Numbers
 | 9 | Nine | nin-er |
 
 ## Licensing
+
+The FCC regulates the ham radio frequencies by requiring that operators show some proficiency by obtaining a license. There are three licenses available, each building on the previous license. We'll explain each below.
+
+| License | Description | Allowed Frequencies | Call Sign |
+|---|---|---|---|
+| Technician | The entry-level license | Above 30 MHz | Six digits assigned by the FCC |
+| General | | | Six digits assigned by the FCC |
+| Amateur Extra | All frequency bands | First two digits are assigned by the FCC, the last three can be requested |
+
+Once obtained, a license is good for 10 years.
+
 ## Resources
 
 * https://en.wikipedia.org/wiki/Amateur_radio
