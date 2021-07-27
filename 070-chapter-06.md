@@ -57,7 +57,7 @@ _**Table 6-4**_ Wavelength/Frequency Conversion
 ## Common Uses
 ## Common Practices
 
-### Q Signals
+### Q Codes
 
 Q codes are used as shorthand for communicating with others over the airwaves. They are common phrases that are encoded down to a three-letter phrase to save time when using voice communications.
 
