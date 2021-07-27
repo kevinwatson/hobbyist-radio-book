@@ -46,10 +46,10 @@ _**Table 6-3**_ UHF Ham Frequencies
 
 _**Table 6-4**_ Wavelength/Frequency Conversion
 
-| Formula |  |
+| Formula | Explanation |
 |---|---|
-|  |  |
-|  |  |
+| ℷ=300/f | wavelength=300/frequency (MHz) |
+| f=300/ℷ | frequency (MHz) = 300/wavelength |
 
 ## Antennas
 ## Range
