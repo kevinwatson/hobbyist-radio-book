@@ -173,7 +173,7 @@ The FCC regulates the ham radio frequencies by requiring that operators show som
 |---|---|---|---|
 | Technician | The entry-level license | Above 30 MHz | Six digits assigned by the FCC |
 | General | | | Six digits assigned by the FCC |
-| Amateur Extra | All frequency bands | First two digits are assigned by the FCC, the last three can be requested |
+| Amateur Extra | | All frequency bands | First two digits are assigned by the FCC, the last three can be requested |
 
 Once obtained, a license is good for 10 years.
 
