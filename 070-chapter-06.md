@@ -32,17 +32,20 @@ _**Table 6-2**_ VHF Ham Frequencies
 
 | Transmit/Receive Frequency (MHz) | Wavelength (meters) | License Class |
 |---|---|---|
-| 50 | 6 | Technician and higher |
-| 144 | 2 | Technician and higher |
-| 222 | 1.25 | Technician and higher |
+| 50-54 | 6 | Technician and higher |
+| 144-148 | 2 | Technician and higher |
+| 219-220 | 1.25 | Technician and higher |
+| 222-225 | 1.25 | Technician and higher |
 
 _**Table 6-3**_ UHF Ham Frequencies
 
 | Transmit/Receive Frequency (MHz) | Wavelength (centimeters) | License Class |
 |---|---|---|
-| 420 | 70 | Technician and higher |
-| 902 | 33 | Technician and higher |
-| 1240 | 23 | Technician and higher |
+| 420-450 | 70 | Technician and higher |
+| 902-928 | 33 | Technician and higher |
+| 1240-1300 | 23 | Technician and higher |
+| 2300-2310 | 13 | Technician and higher |
+| 2390-2450 | 13 | Technician and higher |
 
 _**Table 6-4**_ Wavelength/Frequency Conversion
 
