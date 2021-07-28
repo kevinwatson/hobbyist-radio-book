@@ -15,37 +15,37 @@ In previous chapters we've listed frequencies and their corresponding channels. 
 
 _**Table 6-1**_ HF Ham Frequencies
 
-| Transmit/Receive Frequency (MHz) | Wavelength (meters) | License Class |
-|---|---|---|
-| 1.8 | 160 | General and Amateur Extra |
-| 3.5 | 80 | General and Amateur Extra |
-| 5.3 | 60 | General and Amateur Extra |
-| 7 | 40 | General and Amateur Extra |
-| 10.1 | 30 | General and Amateur Extra |
-| 14 | 20 | General and Amateur Extra |
-| 18 | 17 | General and Amateur Extra |
-| 21 | 15 | General and Amateur Extra |
-| 24 | 12 | General and Amateur Extra |
-| 28 | 10 | General and Amateur Extra |
+| Transmit/Receive Frequency (MHz) | Wavelength (meters) | License Class | Maximum Transmit Power (in watts) |
+|---|---|---|---|
+| 1.8 | 160 | General and Amateur Extra | 1500 |
+| 3.5 | 80 | General and Amateur Extra | 1500 |
+| 5.3 | 60 | General and Amateur Extra | 1500 |
+| 7 | 40 | General and Amateur Extra | 1500 |
+| 10.1 | 30 | General and Amateur Extra | 200 |
+| 14 | 20 | General and Amateur Extra | 1500 |
+| 18 | 17 | General and Amateur Extra | 1500 |
+| 21 | 15 | General and Amateur Extra | 1500 |
+| 24 | 12 | General and Amateur Extra | 1500 |
+| 28 | 10 | General and Amateur Extra | 1500 |
 
 _**Table 6-2**_ VHF Ham Frequencies
 
-| Transmit/Receive Frequency (MHz) | Wavelength (meters) | License Class |
-|---|---|---|
-| 50-54 | 6 | Technician and higher |
-| 144-148 | 2 | Technician and higher |
-| 219-220 | 1.25 | Technician and higher |
-| 222-225 | 1.25 | Technician and higher |
+| Transmit/Receive Frequency (MHz) | Wavelength (meters) | License Class | Maximum Transmit Power (in watts) |
+|---|---|---|---|
+| 50-54 | 6 | Technician and higher | 1500 |
+| 144-148 | 2 | Technician and higher | 1500 |
+| 219-220 | 1.25 | Technician and higher | 50 |
+| 222-225 | 1.25 | Technician and higher | 1500 |
 
 _**Table 6-3**_ UHF Ham Frequencies
 
-| Transmit/Receive Frequency (MHz) | Wavelength (centimeters) | License Class |
-|---|---|---|
-| 420-450 | 70 | Technician and higher |
-| 902-928 | 33 | Technician and higher |
-| 1240-1300 | 23 | Technician and higher |
-| 2300-2310 | 13 | Technician and higher |
-| 2390-2450 | 13 | Technician and higher |
+| Transmit/Receive Frequency (MHz) | Wavelength (centimeters) | License Class | Maximum Transmit Power (in watts) |
+|---|---|---|---|
+| 420-450 | 70 | Technician and higher | 1500 |
+| 902-928 | 33 | Technician and higher | 1500 |
+| 1240-1300 | 23 | Technician and higher | 1500 |
+| 2300-2310 | 13 | Technician and higher | 1500 |
+| 2390-2450 | 13 | Technician and higher | 1500 |
 
 _**Table 6-4**_ Wavelength/Frequency Conversion
 
