@@ -16,6 +16,7 @@ Throughout each chapter we'll define the terms that we'll then use to in our dis
 
 * **Band**: A collection of related frequencies or channels
 * **Call Sign**: An identifier, consisting of letters and numbers, which is assigned by the FCC and is used by radio operators to identify themselves
+* **Emission**: Any radio signal from a transmitter
 * **Radio**: An electronic device which receives and/or transmits electromagnetic signals and converts those signals to an audio or video format
 * **Spectrum**: A range of frequencies
 * **Radio Wave**:
