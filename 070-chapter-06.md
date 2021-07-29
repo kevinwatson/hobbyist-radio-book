@@ -120,7 +120,7 @@ _**Table 6-5**_ Ham Radio Q Signals
 | QUE | Can you speak in ___ (language) – with interpreter if necessary – if so, on what frequencies? | I can speak in ___ (language) on ___ (kHz or MHz) |
 | QUF | Have you received the distress signal sent by ___ (call sign)? | I have received the distress signal sent by ___ (call sign) at ___ hours |
 
-Because of accents, similar-sounding letters and the requirement to announce call signs over the air, it's necessary to establish a common pronounciation for letters of the English alphabet. Table 6-6 defines the related words for each letter and their common pronounciations. The full words and pronounciations for each letter allow hams to clearly express their intent. For example, if a user's call sign was KG7TVE, the last three characters sound similar. It would be clear to both announce the call sign normally, and then spell it out, as in Kilo-Golf-Seven-Tango-Victor-Echo. Others who were listening to the transmission would have a much easier time interpreting the call sign with each letter pronounced as a separate word.
+Because of accents, similar-sounding letters and the requirement to announce call signs over the air, it's necessary to establish a common pronounciation for letters of the English alphabet. Table 6-6 defines the related words for each letter and their common pronounciations. The full words and pronounciations for each letter allow hams to clearly express their intent. For example, if a user's call sign was KG7TVE, the last three characters sound similar. It would be clear to both announce the call sign normally, and then spell it out, as in Kilo-Golf-Seven-Tango-Victor-Echo. Others who were listening to the transmission would have a much easier time interpreting the call sign with each letter pronounced as a separate word. Single digit numbers also have phonetic pronunciations to prevent ambiguity.
 
 _**Table 6-6**_ Phonetic Alphabet
 
@@ -172,13 +172,15 @@ _**Table 6-7**_ Phonetic Numbers
 
 The FCC regulates the ham radio frequencies by requiring that operators show some proficiency by obtaining a license. There are three licenses available, each building on the previous license. We'll explain each below.
 
+_**Table 6-8**_ Ham Licenses
+
 | License | Description | Allowed Frequencies | Call Sign |
 |---|---|---|---|
 | Technician | The entry-level license | Above 30 MHz | Six digits assigned by the FCC |
 | General | | | Six digits assigned by the FCC |
 | Amateur Extra | | All frequency bands | First two digits are assigned by the FCC, the last three can be requested |
 
-Once obtained, a license is good for 10 years.
+Once obtained, a license is good for 10 years. Each license requires an exam which can be taken online.
 
 ## Resources
 
