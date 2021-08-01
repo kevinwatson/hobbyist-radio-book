@@ -14,34 +14,31 @@ Laptops and tablet computers include Bluetooth radios that allow your wireless k
 
 Throughout each chapter we'll define the terms that we'll then use to in our discussions around learning about and using the available radio types.
 
+* **Amplitude Modulation (AM)**: The earliest method of encoding and transmitting messages via radio waves, where the signal strength varies depending on the message
 * **Band**: A collection of related frequencies or channels
-* **Call Sign**: An identifier, consisting of letters and numbers, which is assigned by the FCC and is used by radio operators to identify themselves
-* **Emission**: Any radio signal from a transmitter
-* **Radio**: An electronic device which receives and/or transmits electromagnetic signals and converts those signals to an audio or video format
-* **Spectrum**: A range of frequencies
-* **Radio Wave**:
-* **Transceiver**: A radio that can both receive and transmit on one or more frequencies
-* **Frequency**: 
-* **Transmit**: Processing and then sending a signal
-* **Receive**: Accepting and processing a signal
-* **Signal**:
-* **Frequency Modulation (FM)**:
-* **Amplitude Modulation (AM)**:
-* **Very High Frequency (VHF)**:
-* **High Frequency (HF)**:
-* **Ultra High Frequency (UHF)**: Frequencies between 300 megahertz (MHz) and 3 gigahertz (GHz)
-* **Channel**:
-* **Simplex**: Using a single channel to transmit and receive
-* **Duplex**: Using multiple channels to transmit and receive
-* **Half Duplex**: Pushing a PTT button or a VOX feature is required to transmit
-* **Full Duplex**: Simultaneously transmitting and receiving signals (cell phones have this feature)
-* **Push to Talk (PTT)**: A button on a radio that, when pushed, stops receiving and begins transmitting
-* **Wi-Fi**: Short range wireless standard for computer networks
-* **Global Positioning System (GPS)**: A system of satellites and signals that is used to determined a device's position on the Earth
 * **Bluetooth**: Short range wireless standard for computer networks
-* **Voice Activated Transmit (VOX)**: A voice-activated feature on half duplex radios which makes the device hands-free
+* **Call Sign**: An identifier, consisting of letters and numbers, which is assigned by the FCC and is used by radio operators to identify themselves
+* **Channel**: A pre-programmed value that matches a frequency
+* **Duplex**: Using multiple channels to transmit and receive
+* **Emission**: Any radio signal from a transmitter
+* **Frequency**: The number of invisible electromagnetic waves that pass a fixed point in time, measured in hertz
+* **Frequency Modulation (FM)**: An alternative to AM encoding, where the signal strength remains constant but the frequency is shifted
+* **Full Duplex**: Simultaneously transmitting and receiving signals (cell phones have this feature)* **High Frequency (HF)**:
+* **Half Duplex**: Pushing a PTT button or a VOX feature is required to transmit
+* **Global Positioning System (GPS)**: A system of satellites and signals that is used to determined a device's position on the Earth
 * **Handheld Transciever (HT)**: A hand-held two-way radio
+* **Push to Talk (PTT)**: A button on a radio that, when pushed, stops receiving and begins transmitting
+* **Radio**: An electronic device which receives and/or transmits electromagnetic signals and converts those signals to an audio or video format
+* **Receive**: Accepting and processing a signal
+* **Simplex**: Using a single channel to transmit and receive
+* **Spectrum**: A range of frequencies
 * **Squelch**: A radio function which mutes the speaker when no signal is detected
+* **Transceiver**: A radio that can both receive and transmit on one or more frequencies
+* **Transmit**: Processing and then sending a radio signal
+* **Ultra High Frequency (UHF)**: Frequencies between 300 megahertz (MHz) and 3 gigahertz (GHz)
+* **Very High Frequency (VHF)**: Frequencies between 30 through 300 megahertz (MHz)
+* **Voice Activated Transmit (VOX)**: A voice-activated feature on half duplex radios which makes the device hands-free
+* **Wi-Fi**: Short range wireless standard for computer networks
 
 ## Radio Bands
 
