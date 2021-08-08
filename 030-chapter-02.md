@@ -57,7 +57,9 @@ Under most circumstances, you'll probably see a maximum range of 1/2 mile in you
 
 ## Privacy Codes
 
-FRS radios have a feature they call privacy channels. These privacy channels are not exactly private. Encrypted communications are not allowed on these frequencies. Privacy channels use a technology named CTCSS. It can filter out transmissions that you don't want to hear by transmitting a tone at the time that you push the push-to-talk button. The receiving radio that is set on the same channel will only play back transmissions on the same privacy channel. The reason that it's not private is that a radio can be set to ignore the tones. When a radio is set to privacy code `0`, it is not filtering out these tones and will receive and play all transmissions on that channel.
+FRS radios have a feature they call privacy channels or privacy codes. Even though it has the word "privacy", this feature filters out unwanted transmissions rather than making your transmissions private. Encrypted communications are not allowed on the FRS frequencies. Privacy channels use a technology named Continuous Tone-Coded Squelch System (CTCSS). CTCSS filters out transmissions that you don't want to hear by transmitting an inaudible tone at the time that you push the push-to-talk button. The receiving radio that is set on the same channel and privacy code will only play back transmissions that include the inaudible tone.
+
+Besides no support for encryption, another reason that privacy codes are not private is that all FRS radios can be set to ignore the tones. When a radio is set to privacy code `0`, it is not filtering out these tones and will receive and play all transmissions on that channel.
 
 ## Licensing - Wait! Licenses Aren't Required
 
@@ -67,6 +69,7 @@ Licenses are not required for FCC certified FRS radios because these radios have
 
 ## Resources
 
+* https://en.wikipedia.org/wiki/Continuous_Tone-Coded_Squelch_System
 * https://en.wikipedia.org/wiki/Family_Radio_Service
 * https://transition.fcc.gov/fcc-bin/tvq?list=0&facid=35823
 * https://www.fcc.gov/wireless/bureau-divisions/mobility-division/family-radio-service-frs
