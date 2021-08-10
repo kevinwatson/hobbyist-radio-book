@@ -99,6 +99,22 @@ If you're transmitting for periods over 15 minutes, FCC regulations require that
 
 Stating your call sign at the end of the conversation is also common, it signals to the rest of the users that you're done using the frequency.
 
+## Additional Features
+
+GMRS radios support a number of features. Learning how to use them can provide a more enjoyable experience.
+
+### Busy Channel Lockout
+
+Busy channel lockout (BCL) is a feature that prevents the radio from transmitting while it is receiving a signal on the same channel.
+
+### Roger Beep
+
+The roger beep is an option which plays an audible tone when you let go of the push-to-talk button. This can speed up communications between parties because those who are listening know exactly when the channel is available for their reply.
+
+### Wide Band
+
+FRS radios are restricted to a narrow band, in other words, limited bandwidth for transmissions. GMRS radios are allowed to use a wider band, which can help improve audio quality.
+
 ## Resources
 
 * https://apps.fcc.gov/cores/userLogin.do* https://ecfr.federalregister.gov/current/title-47/chapter-I/subchapter-D/part-95/subpart-E/section-95.1705
