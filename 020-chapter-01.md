@@ -30,9 +30,13 @@ Throughout each chapter we'll define the terms that we'll then use to in our dis
 * **Push to Talk (PTT)**: A button on a radio that, when pushed, stops receiving and begins transmitting
 * **Radio**: An electronic device which receives and/or transmits electromagnetic signals and converts those signals to an audio or video format
 * **Receive**: Accepting and processing a signal
+* **Rubber Duck**: The standard antenna included on a handheld
 * **Simplex**: Using a single channel to transmit and receive
+* **Side Bands (SB)**: An AM signal that is transmitted on both sides of a given frequency
+* **Single Side Band (SSB)**: An AM signal that transmits on either the lower or upper band of a frequency (left to right)
 * **Spectrum**: A range of frequencies
 * **Squelch**: A radio function which mutes the speaker when no signal is detected
+* **Standing Wave Ratio (SWR)**: A measure of how well an antenna is matched to its transmission radio frequency voltage
 * **Transceiver**: A radio that can both receive and transmit on one or more frequencies
 * **Transmit**: Processing and then sending a radio signal
 * **Ultra High Frequency (UHF)**: Frequencies between 300 megahertz (MHz) and 3 gigahertz (GHz)
