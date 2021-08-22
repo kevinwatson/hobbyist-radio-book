@@ -60,6 +60,14 @@ _**Table 6-4**_ Wavelength/Frequency Conversion
 ## Common Uses
 ## Common Practices
 
+There are a number of common phrases that ham radio operators use to communicate. Some of these phrases are carried over from CB radio operations.
+
+| Phrase | Meaning |
+|---|---|
+| 73 | Best regards |
+| CQ | |
+| Rig | A radio |
+
 ### Q Codes
 
 Q codes are used as shorthand for communicating with others over the airwaves. They are common phrases that are encoded down to a three-letter phrase to save time when using voice communications.
@@ -189,6 +197,8 @@ Once obtained, a license is good for 10 years. Each license requires an exam whi
 * https://www.fcc.gov/amateur-radio-service
 * https://www.iaru.org
 * http://www.sckans.edu/~sireland/radio/q_signals.html
+* https://www.qrz.com/page/hamspeak.html
+* https://www.youtube.com/channel/UChAu6Cof9KlfFxSbL9ytosQ
 
 ## Wrap-up
 
