@@ -65,7 +65,7 @@ There are a number of common phrases that ham radio operators use to communicate
 | Phrase | Meaning |
 |---|---|
 | 73 | Best regards |
-| CQ | |
+| CQ | An invitation to respond |
 | Rig | A radio |
 
 ### Q Codes
@@ -175,6 +175,31 @@ _**Table 6-7**_ Phonetic Numbers
 | 7 | Seven | sev-en |
 | 8 | Eight | alt |
 | 9 | Nine | nin-er |
+
+### Making Contact
+
+There are a number of ways to establish contact with other ham operators. Here are a few.
+
+#### Unused Frequency
+
+Find an open frequency and listen for a little bit to make sure it is clear or that there aren't any active communications happening on this frequency.
+
+```
+You: Is this frequency in use? <Your call sign>
+You: CQ CQ CQ <Your call sign> CQ CQ CQ <pause and wait for a response>
+Them: <they will reply with your call sign>
+You: <your first name> your signal is <strong|weak>
+Them: <their first name> your signal is <strong|weak>
+They may may then want to carry on a conversation
+```
+
+#### Radio Check
+
+```
+You: <Call Sign> Radio Check. How do I sound?
+Them: <Your call sign> I hear you loud and clear (or something similar). Your signal is <strong|weak>
+You: Great. Thank you.
+```
 
 ## Licensing
 
