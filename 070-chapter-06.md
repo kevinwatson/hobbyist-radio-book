@@ -178,7 +178,7 @@ _**Table 6-7**_ Phonetic Numbers
 
 ### Making Contact
 
-There are a number of ways to establish contact with other ham operators. Here are a few.
+There are a number of ways to establish contact with other ham operators. Making contact is commonly refered to as a QSO. Here are a few ways to make contact.
 
 #### Unused Frequency
 
@@ -187,7 +187,7 @@ Find an open frequency and listen for a little bit to make sure it is clear or t
 ```
 You: Is this frequency in use? <Your call sign>
 You: CQ CQ CQ <Your call sign> CQ CQ CQ <pause and wait for a response>
-Them: <they will reply with your call sign>
+Them: <they could reply with both their and your call signs>
 You: <your first name> your signal is <strong|weak>
 Them: <their first name> your signal is <strong|weak>
 They may may then want to carry on a conversation
