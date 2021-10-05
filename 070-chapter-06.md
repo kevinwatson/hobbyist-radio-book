@@ -55,12 +55,53 @@ _**Table 6-4**_ Wavelength/Frequency Conversion
 | f=300/ℷ | frequency (MHz) = 300/wavelength |
 
 ## Antennas
+
+Ham radio antennas can range from stock antennas included with handhelds to antennas that can be mounted on vehicles for mobile radios, to fixed base station antennas mounted on rooftops or on the ground. The type of antenna you need depends on a number of factors. Do you need to be mobile? Which frequencies are you monitoring? The answers to these questions will determine the specific type of antenna you'll need.
+
+Ham radio antennas come in many sizes and types. Omnidirectional (radiating power in all directions), directional (radiating power in one direction), dummy (no or very little radiated power). Let's examine each in the table below.
+
+_**Table 6-5**_ Handheld Antenna Types
+
+| Type | Range | Usage |
+|---|---|---|
+| Dummy | A few feet | Used to test radios without creating noise on a frequency |
+| Rubber Duck | Several miles | The stock antenna that ships with most handheld radios |
+| Roll-up J-pole | Several miles, longer range than a rubber duck | Longer range antenna that can be rolled up for storage and transport |
+
+_**Table 6-6**_ Mobile Antenna Types
+
+Mobile antennas can be mounted to a vehicle either temporarily with a magnet or permanently with a bracket.
+
+| Type | Range | Usage |
+|---|---|---|
+| 1/4 Wave Vertical | 10s of miles | The shortest length and thus shortest range |
+| 1/2 Wave Vertical | Farther than a 1/4 wave | Longer than a 1/4 wave antenna, with better range |
+| 5/8 Wave Vertical | Farther than a 1/2 wave | The longest length and thus the longest range |
+
+_**Table 6-7**_ Base Station  Antenna Types
+
+Base station antennas can be temporarily or permanently mounted on the ground, on a roof or some other semi-permanent or permanent location. Base stations typically transmit at higher wattages than hand helds and mobile stations. Combining higher wattages with larger antennas allows for farther transmission and reception than any other ham radio configuration.
+
+| Type | Common Usage | Directional/Omnidirectional |
+|---|---|---|
+| J-pole | 2 meter band | Omnidirectional |
+| Ground plane | 2 meter band | Omnidirectional |
+| Yagi | Multiple bands | Directional |
+| Dipole | 70 cm and 2 meter bands | Omnidirectional |
+
 ## Range
+
+As we've learned, the range of ham radio communications varies widely depending on a number of factors, including but not limited to transmission power, antenna type, frequency and weather. While a handheld unit might have a range of several miles, a mobile unit could have a range of dozens of miles. A base station transmitting at 1500 watts with a SWR of 1:0 and a Yagi antenna (or another directional antenna) can bounce its electromagnetic waves off of the ionosphere over a distance of thousands of miles.
+
+There are also a number of ways to communicate over long distances. EchoLink is one of these services which uses the Internet to allow stations to communicate anywhere the software is running anywhere in the world. Repeaters, which we'll discuss next, are also a common method used to greatly extend the range of ham radio transmissions.
+
 ## Repeaters
 ## Common Uses
 ## Common Practices
 
 There are a number of common phrases that ham radio operators use to communicate. Some of these phrases are carried over from CB radio operations.
+
+_**Table 6-6**_ Common Shortcut Phrases
 
 | Phrase | Meaning |
 |---|---|
@@ -178,7 +219,7 @@ _**Table 6-7**_ Phonetic Numbers
 
 ### Making Contact
 
-There are a number of ways to establish contact with other ham operators. Making contact is commonly refered to as a QSO. Here are a few ways to make contact.
+There are a number of ways to establish contact with other ham operators. Making contact is commonly refered to as a QSO. When making contact, you should log information about the operators that you contacted, such as the date and their call sign. Here are a few ways to make contact.
 
 #### Unused Frequency
 
@@ -219,6 +260,8 @@ Once obtained, a license is good for 10 years. Each license requires an exam whi
 
 * https://en.wikipedia.org/wiki/Amateur_radio
 * https://en.wikipedia.org/wiki/Q_code
+* https://hamradioprep.com/ham-radio-antennas
+* https://secure.echolink.org/
 * https://www.fcc.gov/amateur-radio-service
 * https://www.iaru.org
 * http://www.sckans.edu/~sireland/radio/q_signals.html
