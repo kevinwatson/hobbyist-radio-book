@@ -26,11 +26,12 @@ Throughout each chapter we'll define the terms that we'll then use to in our dis
 * **Full Duplex**: Simultaneously transmitting and receiving signals (cell phones have this feature)* **High Frequency (HF)**:
 * **Half Duplex**: Pushing a PTT button or a VOX feature is required to transmit
 * **Global Positioning System (GPS)**: A system of satellites and signals that is used to determined a device's position on the Earth
-* **Handheld Transciever (HT)**: A hand-held two-way radio
+* **Handheld Transceiver (HT)**: A hand-held two-way radio
 * **Mobile Radio**: A radio that requires an external power source and can be mounted in a vehicle
 * **Push to Talk (PTT)**: A button on a radio that, when pushed, stops receiving and begins transmitting
 * **Radio**: An electronic device which receives and/or transmits electromagnetic signals and converts those signals to an audio or video format
 * **Receive**: Accepting and processing a signal
+* **Repeater**: A device that retransmits signals to extend the range of the original transmission
 * **Rubber Duck**: The standard antenna included on a handheld
 * **Simplex**: Using a single channel to transmit and receive
 * **Side Bands (SB)**: An AM signal that is transmitted on both sides of a given frequency

@@ -96,7 +96,13 @@ As we've learned, the range of ham radio communications varies widely depending 
 There are also a number of ways to communicate over long distances. EchoLink is one of these services which uses the Internet to allow stations to communicate anywhere the software is running anywhere in the world. Repeaters, which we'll discuss next, are also a common method used to greatly extend the range of ham radio transmissions.
 
 ## Repeaters
+
+A repeater is an unattended device that is used to retransmit signals to increase the range of the original transmission. Repeaters can be connected to other repeaters or the Internet to further increase their range. For example, a handheld ham radio may have a transmission range of only 10 miles. If there is a repeater with a 70 mile range that sits within that 10 mile radius, the repeater can be used to effectively make the handheld's transmission and reception ranges the same as the range of the repeater, or 70 miles.
+
+In their most basic form, repeaters consist of an antenna and a transceiver. Some repeaters are commercially designed, while some are built out of spare parts. For maximum range, they are located at higher elevations, but can be installed on rooftops or other man-made structures. For repeaters in remote locations, they can be programmed and reset remotely by the owner or operator.
+
 ## Common Uses
+
 ## Common Practices
 
 There are a number of common phrases that ham radio operators use to communicate. Some of these phrases are carried over from CB radio operations.
@@ -259,6 +265,7 @@ Once obtained, a license is good for 10 years. Each license requires an exam whi
 ## Resources
 
 * https://en.wikipedia.org/wiki/Amateur_radio
+* https://en.wikipedia.org/wiki/Amateur_radio_repeater
 * https://en.wikipedia.org/wiki/Q_code
 * https://hamradioprep.com/ham-radio-antennas
 * https://secure.echolink.org/
