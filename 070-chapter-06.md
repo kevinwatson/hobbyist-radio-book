@@ -103,6 +103,14 @@ In their most basic form, repeaters consist of an antenna and a transceiver. Som
 
 ## Common Uses
 
+Ham radio is the ultimate electronics and radio enthusiast's playground. With the wide variety of hardware and the option to legally build your own hardware, ham radio operators have a lot of options. Ham frequencies are not for commercial use, which keeps the frequencies free from being overtaken by commercial interests.
+
+Ham radio enthusiasts use the airwaves to chat, also known as rag chew. They use the airwaves to make contacts with old friends and make new friends. They use the airwaves to test out their new equipment. They get on the air to see how far their new equipment will transmit.
+
+Ham nets are another use of the ham radio frequencies. Nets are scheduled over the air meetings where users check in and topics are discussed.
+
+Competitions are also popular among ham radio users. These contests are frequently called contesting. Contesting consists of making as many contacts as possible (by exchanging the call signs and locations with other operators) within a specific time period.
+
 ## Common Practices
 
 There are a number of common phrases that ham radio operators use to communicate. Some of these phrases are carried over from CB radio operations.
@@ -114,6 +122,7 @@ _**Table 6-6**_ Common Shortcut Phrases
 | 73 | Best regards |
 | CQ | An invitation to respond |
 | Rig | A radio |
+| five-nine | Loud and clear |
 
 ### Q Codes
 
