@@ -2,17 +2,19 @@
 
 ## Introduction
 
-Radio waves are an invisible force that is all around us and passing through each of us and the walls of your house. Without thinking about it, you most likely utilize these invisible waves in some form or another throughout your day.
+Electromagnetic radio waves are an invisible force that are continuously passing through us and the things around us. Radio waves are a recent discovery and when controlled, they make our modern life convenient.
 
-Smart phones, such as iPhone or Android, include a number of built-in radios to allow them to connect to various services and become the can't-live-without-it devices that we use today. The radios inside today's smart phones include Wi-Fi, GPS, Bluetooth and Cellular.
+Smart phones, such as iPhone or Android, include a number of built-in radios to allow them to connect to various services and become the can't-live-without-it devices that we use today. The radios inside today's smart phones include but are not limited to Wi-Fi, GPS, Bluetooth and Cellular.
 
-Besides your phone, the other radios you and your family use most often are the music blaring FM radios in your car and home. You might also have a TV that has an antenna to pick up local television stations. Your garage door opener sends a signal on a radio frequency.
+Besides your phone, the other radios you and your family most likely use are the music blaring AM/FM radios in your car and home. Your car might connect to your phone via bluetooth. You might have a TV that has an antenna to pick up local television stations. Your garage door opener sends a radio signal to open or close the door. Contlactless payment terminals at your local convenience store use radio frequencies. Wireless charging devices operate at specific frequencies.
 
 Laptops and tablet computers include Bluetooth radios that allow your wireless keyboard, mice and trackpads to connect. Wi-Fi is also an essential radio in most computers which allows you to connect to your home or business router to get online.
 
+Many devices around us use these invisible radio frequencies. Without them, modern life with look much different than it does today. Throughout the course of this book, we'll be focused on two-way communications using radio frequencies that are free to listen on but some may require a license to transmit on. We'll discuss the differences and who uses each. Let's jump in!
+
 ## Definitions
 
-Throughout each chapter we'll define the terms that we'll then use to in our discussions around learning about and using the available radio types.
+In this book we'll use the terms below in our discussions around radio hardware and radio waves. You may want to bookmark this chapter and use it as a reference for these definitions.
 
 * **Amplitude Modulation (AM)**: The earliest method of encoding and transmitting messages via radio waves, where the signal strength varies depending on the message
 * **Band**: A collection of related frequencies or channels
