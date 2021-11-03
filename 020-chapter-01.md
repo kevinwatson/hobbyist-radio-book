@@ -4,7 +4,7 @@
 
 Electromagnetic radio waves are an invisible force that are continuously passing through us and the things around us. Radio waves are a recent discovery and when controlled, they make our modern life convenient.
 
-Smart phones, such as iPhone or Android, include a number of built-in radios to allow them to connect to various services and become the can't-live-without-it devices that we use today. The radios inside today's smart phones include but are not limited to Wi-Fi, GPS, Bluetooth and Cellular.
+Smart phones, such as iPhone or Android, include a number of built-in radios to allow them to connect to various services and become the can't-live-without-it devices that we use today. The radios inside today's smart phones include but are not limited to Wi-Fi, GPS, NFC, Bluetooth and Cellular.
 
 Besides your phone, the other radios you and your family most likely use are the music blaring AM/FM radios in your car and home. Your car might connect to your phone via bluetooth. You might have a TV that has an antenna to pick up local television stations. Your garage door opener sends a radio signal to open or close the door. Contlactless payment terminals at your local convenience store use radio frequencies. Wireless charging devices operate at specific frequencies.
 
@@ -30,6 +30,7 @@ In this book we'll use the terms below in our discussions around radio hardware 
 * **Global Positioning System (GPS)**: A system of satellites and signals that is used to determined a device's position on the Earth
 * **Handheld Transceiver (HT)**: A hand-held two-way radio
 * **Mobile Radio**: A radio that requires an external power source and can be mounted in a vehicle
+* **Near-field comminication (NFC)**: A low-power, wireless technology that is commonly used for contactless payment systems
 * **Push to Talk (PTT)**: A button on a radio that, when pushed, stops receiving and begins transmitting
 * **Radio**: An electronic device which receives and/or transmits electromagnetic signals and converts those signals to an audio or video format
 * **Receive**: Accepting and processing a signal
