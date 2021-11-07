@@ -267,10 +267,10 @@ _**Table 6-12**_ Ham Licenses
 | License | Description | Allowed Frequencies | Call Sign |
 |---|---|---|---|
 | Technician | The entry-level license | Above 30 MHz | Six digits assigned by the FCC |
-| General | | | Six digits assigned by the FCC |
-| Amateur Extra | | All frequency bands | First two digits are assigned by the FCC, the last three can be requested |
+| General | The second-level license | Some privileges on all frequency bands and all modes | Six digits assigned by the FCC |
+| Amateur Extra | The top-level license | All privileges on all ham frequency bands and all modes | First two digits are assigned by the FCC, the last three can be requested |
 
-Once obtained, a license is good for 10 years. Each license requires an exam which can be taken online.
+Once obtained, a license is good for 10 years. Each license requires an exam which can be taken online. Anyone can listen on the frequencies without a license, but a license is required to transmit.
 
 ## Resources
 
