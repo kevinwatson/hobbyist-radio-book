@@ -47,7 +47,6 @@
   * Wrap-up
 * [Chapter 6 - Amateur (ham) Radio](070-chapter-06.md)
   * Introduction
-  * Definitions
   * Frequencies
   * Antennas
   * Range

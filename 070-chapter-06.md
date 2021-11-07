@@ -2,13 +2,12 @@
 
 ## Introduction
 
-Amateur radio, also known as ham radio, consists of a set of frequencies which can be used by licensed radio operators. Ham operators are allowed to use a wide range of frequencies, some of which allow wide-area transmissions and in some cases as far as thousands of miles.
+Amateur radio, also known as ham radio, consists of a set of frequencies which can be used by radio operators. Ham operators are allowed to use a wide range of frequencies, some of which allow wide-area transmissions and in some cases as far as thousands of miles.
 
 The FCC regulates radio transmissions and stations within the US borders. FRS, GMRS, MURS and CBRS radio frequencies are generally short range communications. Ham radio operators can use frequencies and use transmission powers that allow them to communicate across national borders. Because these transmissions can reach across borders, the Internal Amateur Radio Union, a group of national organizations which regulate and govern those frequencies.
 
 In the US, the radio stations that FRS, GMRS, MURS and CBRS radio operators use must be authorized by the FCC. Ham radio stations are not under the same restrictions, which allows for more flexibility and tinkering by their owners.
 
-## Definitions
 ## Frequencies
 
 In previous chapters we've listed frequencies and their corresponding channels. Because ham radios can access a wide spectrum of frequencies, there isn't a regulated set of pre-defined channel to frequency mapping. Ham operators will tune to a specific frequency instead.
