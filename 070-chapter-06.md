@@ -114,7 +114,7 @@ Competitions are also popular among ham radio users. These contests are frequent
 
 There are a number of common phrases that ham radio operators use to communicate. Some of these phrases are carried over from CB radio operations.
 
-_**Table 6-6**_ Common Shortcut Phrases
+_**Table 6-8**_ Common Shortcut Phrases
 
 | Phrase | Meaning |
 |---|---|
@@ -127,7 +127,7 @@ _**Table 6-6**_ Common Shortcut Phrases
 
 Q codes are used as shorthand for communicating with others over the airwaves. They are common phrases that are encoded down to a three-letter phrase to save time when using voice communications.
 
-_**Table 6-5**_ Ham Radio Q Signals
+_**Table 6-9**_ Ham Radio Q Signals
 
 | Signal | Question | Answer | Intent |
 |---|---|---|---|
@@ -185,7 +185,7 @@ _**Table 6-5**_ Ham Radio Q Signals
 
 Because of accents, similar-sounding letters and the requirement to announce call signs over the air, it's necessary to establish a common pronounciation for letters of the English alphabet. Table 6-6 defines the related words for each letter and their common pronounciations. The full words and pronounciations for each letter allow hams to clearly express their intent. For example, if a user's call sign was KG7TVE, the last three characters sound similar. It would be clear to both announce the call sign normally, and then spell it out, as in Kilo-Golf-Seven-Tango-Victor-Echo. Others who were listening to the transmission would have a much easier time interpreting the call sign with each letter pronounced as a separate word. Single digit numbers also have phonetic pronunciations to prevent ambiguity.
 
-_**Table 6-6**_ Phonetic Alphabet
+_**Table 6-10**_ Phonetic Alphabet
 
 | Letter | Word | Pronunciation |
 |---|---|---|
@@ -216,7 +216,7 @@ _**Table 6-6**_ Phonetic Alphabet
 | Y | Yankee | yang-kee |
 | Z | Zulu | zoo-loo |
 
-_**Table 6-7**_ Phonetic Numbers
+_**Table 6-11**_ Phonetic Numbers
 
 | Number | Word | Pronunciation |
 |---|---|---|
@@ -260,7 +260,7 @@ You: Great. Thank you.
 
 The FCC regulates the ham radio frequencies by requiring that operators show some proficiency by obtaining a license. There are three licenses available, each building on the previous license. We'll explain each below.
 
-_**Table 6-8**_ Ham Licenses
+_**Table 6-12**_ Ham Licenses
 
 | License | Description | Allowed Frequencies | Call Sign |
 |---|---|---|---|
