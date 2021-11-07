@@ -287,4 +287,10 @@ Once obtained, a license is good for 10 years. Each license requires an exam whi
 
 ## Wrap-up
 
+Ham radio is a wildly popular choice among hobbyist radio enthusiasts. There are many reasons for this, including the fact that the ham radio bands are free and will remain free from commercial use. Another reason for its popularity is that there are no limits to the hardware that you can purchase or make, the things you can learn and the contacts that you can make across the world.
+
+There is a common language among ham radio operators that helps them make efficient use of their time. Learning how to connect to and use a repeater further extends the range of your station.
+
+Using the ham frequencies requires a specific knowledge which can be gained by studying and passing the ham radio exams. Once a user passes the technician exam, they can progress on to the general and amateur extra licenses to open up additonal frequencies and opportunities.
+
 [Next >>](080-chapter-07.md)
