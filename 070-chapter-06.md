@@ -120,8 +120,10 @@ _**Table 6-8**_ Common Shortcut Phrases
 |---|---|
 | 73 | Best regards |
 | CQ | An invitation to respond |
-| Rig | A radio |
-| five-nine | Loud and clear |
+| Five-nine | Loud and clear |
+| QSO | Making contact with another operator/station |
+| Ragchew | An informal conversation between operators |
+| Rig | A transciever radio |
 
 ### Q Codes
 
