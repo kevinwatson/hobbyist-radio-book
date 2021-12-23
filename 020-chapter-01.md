@@ -60,9 +60,9 @@ _**Table 1-1**_ Radio Bands with Examples
 | VLF | Very Low Frequency | 3 kHz - 30 kHz | Military, HAM | Longest range | Slow data transmission speeds |
 | LF | Low Frequency | 30 kHz - 300 kHz | Time signals, military, RFID tags (e.g. HOV lanes, animal identification), HAM | Long range | Slow data transmission speeds |
 | MF | Medium Frequency | 300 kHz - 3 MHz | AM radio, HAM, radio controlled drones/models | Long range | More susceptible to interference for AM audio broadcasts vs FM audio broadcasts |
-| HF | High Frequency | 3 MHz - 30 MHz | Military, aviation, HAM, CB, radio controlled toys | Mid range |
+| HF | High Frequency | 3 MHz - 30 MHz | Military, aviation, HAM, CB, radio controlled toys, NFC | Mid range |
 | VHF | Very High Frequency | 30 MHz - 300 MHz | HAM, MURS, FM radio, radio-controlled toys, some TV channels | Mid range | Mid range allows for a wide range of devices to work in an area without causing interference |
-| UHF | Ultra High Frequency | 300 MHz - 3GHz | Some TV channels, government, FRS, GMRS, cellular phones, Wi-Fi, HAM, garage door openers, car key fobs | High data transmission speeds | Short range |
+| UHF | Ultra High Frequency | 300 MHz - 3GHz | Some TV channels, government, FRS, GMRS, cellular phones, Wi-Fi, HAM, garage door openers, car key fobs, Bluetooth | High data transmission speeds | Short range |
 | SHF | Super High Frequency | 3GHz - 30 GHz | Microwave ovens, radar, Wi-Fi | High data transmission speeds | Short range |
 | EHF | Extremely High Frequency | 30 GHz - 300 GHz | Astronomy, 5G cell phones, military, airport body scanners | Very high data transmission speeds | Shortest range |
 
