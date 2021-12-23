@@ -61,8 +61,8 @@ _**Table 1-1**_ Radio Bands with Examples
 | LF | Low Frequency | 30 kHz - 300 kHz | Time signals, military, RFID tags (e.g. HOV lanes, animal identification), HAM | Long range |
 | MF | Medium Frequency | 300 kHz - 3 MHz | AM radio, HAM | Long range |
 | HF | High Frequency | 3 MHz - 30 MHz | Military, aviation, HAM, CB | Mid range |
-| VHF | Very High Frequency | 30 MHz - 300 MHz | HAM, MURS, FM radio, radio-controlled toys, some TV channels | Mid range |
-| UHF | Ultra High Frequency | 300 MHz - 3GHz | Some TV channels, government, FRS, GMRS, cellular phones, Wi-Fi, HAM | High data transmission speeds | Short range |
+| VHF | Very High Frequency | 30 MHz - 300 MHz | HAM, MURS, FM radio, radio-controlled toys, some TV channels | Mid range | Mid range allows for a wide range of devices to work in an area without causing interference |
+| UHF | Ultra High Frequency | 300 MHz - 3GHz | Some TV channels, government, FRS, GMRS, cellular phones, Wi-Fi, HAM, garage door openers, car key fobs | High data transmission speeds | Short range |
 | SHF | Super High Frequency | 3GHz - 30 GHz | Microwave ovens, radar, Wi-Fi | High data transmission speeds | Short range |
 | EHF | Extremely High Frequency | 30 GHz - 300 GHz | Astronomy, 5G cell phones, military, airport body scanners | Very high data transmission speeds | Shortest range |
 
