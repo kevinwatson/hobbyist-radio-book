@@ -56,6 +56,17 @@
   * Licensing
   * Resources
   * Wrap-up
-* [Chapter 7 - Summary](080-chapter-07.md)
+* [Chapter 7 - Software Defined Radio](080-chapter-07.md)
+  * Introduction
+  * Frequencies
+  * Antennas
+  * Range
+  * Repeaters
+  * Common Uses
+  * Common Practices
+  * Licensing
+  * Resources
+  * Wrap-up
+* [Chapter 8 - Summary](090-chapter-08.md)
 
 [Next >>](020-chapter-01.md)
