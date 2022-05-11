@@ -1,4 +1,4 @@
-### Chapter 7 - Summary
+### Chapter 8 - Summary
 
 Thank you for walking with me on a journey of Hobbyist Radio Communications. While on this journey we've discussed many ways that radios support our modern lives, including devices such as cell phones, contactless payments, garage door openers and others. We've discussed the available radio bands for users specifically in the United States. We've defined terminology to increase our vocabulary so that we can increase our knowledge and have higher-level conversations with other radio enthusiasts.
 
