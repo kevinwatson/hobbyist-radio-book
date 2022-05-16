@@ -4,9 +4,9 @@
 
 General Mobile Radio Service (GMRS) is similar to Family Radio Service (FRS), but with more options. GMRS radios use the same 22 channels, but also have an additional 8 repeater channels. GMRS also allows the user to transmit at a higher power than FRS radios, which allows for longer distance communications and better audio quality. A license is required to use a GMRS radio, so that GMRS radio operators can be identified if needed by the FCC.
 
-GMRS radios are allowed to have replaceable antennas. Combine this with higher power wattage allowances, GMRS radios can transmit farther distances than their FRS radio cousins.
+GMRS radios are allowed to have replaceable antennas. Combine this with higher power wattage allowances, GMRS radios can transmit farther distances than their FRS radio cousins. For a radios to be labeled as GMRS they are required to be [FCC Part 95 Subpart E](https://ecfr.federalregister.gov/current/title-47/chapter-I/subchapter-D/part-95/subpart-E/section-95.1705) compliant.
 
-GMRS radios come in two form factors. Handheld walkie-talkie style radios are cheapest and most common. Prices range from $50 to hundreds of dollars. They usually have rechargeable batteries and a belt clip. Mobile stations are larger, require a separate power source and usually have a separate wired microphone/speaker. They are generally mounted below the dashboard in a vehicle and draw power from the battery. Antennas are usually placed on the roof or trunk and offer wide range communication.
+GMRS radios come in two form factors. Handheld walkie-talkie style radios are cheapest and most common. Prices range from $50 to hundreds of dollars. They usually have rechargeable batteries and a belt clip. Mobile stations are larger, require a separate power source and usually have a separate wired microphone/speaker. They are generally mounted below the dashboard in a vehicle and draw power from the vehicle's battery. Antennas are usually placed on the roof or trunk and offer wide range communication.
 
 ## Licensing
 
@@ -121,7 +121,7 @@ FRS radios are restricted to a narrow band, in other words, limited bandwidth fo
 
 ## Resources
 
-* https://apps.fcc.gov/cores/userLogin.do* https://ecfr.federalregister.gov/current/title-47/chapter-I/subchapter-D/part-95/subpart-E/section-95.1705
+* https://ecfr.federalregister.gov/current/title-47/chapter-I/subchapter-D/part-95/subpart-E/section-95.1705
 * https://en.wikipedia.org/wiki/General_Mobile_Radio_Service
 * https://mygmrs.com/map
 * https://www.fcc.gov/general-mobile-radio-service-gmrs
