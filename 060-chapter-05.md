@@ -73,6 +73,7 @@ For bands that require a license such as GMRS or ham, the FCC issues a unique ca
 
 ## Resources
 
+* https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-95/subpart-D
 * https://en.wikipedia.org/wiki/Citizens_band_radio
 * https://www.fcc.gov/wireless/bureau-divisions/mobility-division/citizens-band-radio-service-cbrs
 

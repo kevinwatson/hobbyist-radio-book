@@ -46,6 +46,7 @@ A Roger Beep function can help signal when you have pressed and then released th
 
 ## Resources
 
+* https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-95/subpart-J
 * https://en.wikipedia.org/wiki/Multi-Use_Radio_Service
 * https://www.fcc.gov/wireless/bureau-divisions/mobility-division/multi-use-radio-service-murs
 

@@ -69,6 +69,7 @@ Licenses are not required for FCC certified FRS radios because these radios have
 
 ## Resources
 
+* https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-95/subpart-B
 * https://en.wikipedia.org/wiki/Continuous_Tone-Coded_Squelch_System
 * https://en.wikipedia.org/wiki/Family_Radio_Service
 * https://transition.fcc.gov/fcc-bin/tvq?list=0&facid=35823
